@@ -1,0 +1,100 @@
+id,ques,opt,ans,difficulty
+1,"A does work in 10 days and B does the same work in 15 days. In how many days they together will do the same work?","["5 days", "6 days", "8 days", "9 days", "7.5 days"]","6 days",medium
+2,"In normally distributed set of data, one standard deviation above the mean is 157 and the standard deviation is 17. What is the mean of the data?","["145", "117", "135", "140", "125"]",140,easy
+3,"A farmer travelled a distance of 61kms in 9 hours. He travelled partly one foot @4km/hour and on bicycle @9km/hour. The distance travelled on foot is:","["14km", "15km", "16km", "17km", "18km"]",16km,easy
+4,"The speed of a car increases by 2kms after every one hour. If the distance travelled in the first one hour was found to be 35kms. What was the total distance travelled in 12 hours?","["456kms", "552kms", "566kms", "452kms", "562kms"]",552kms,easy
+5,"How many three digit numbers can be formed  using 0 to 9 if repetition is allowed ?","["1200", "1000", "900", "9000", "700"]",900,easy
+6,"Three dice are roll.Find number of possible outcomes in which atleast one dice shows 6.","["90", "91", "92", "93", "94"]",91,easy
+7,"The ratio 5:4 expressed as a percent equals:","["1.25%", "125%", "12.5%", "1250%", ".125%"]",125%,easy
+8,"Find the 19th term of the progression 5,9,13,......","["33", "44", "55", "66", "77"]",77,easy
+9,"If p% of p is 36 , then p is equal to :","["15", "6", "60", "600", "3600"]",60,easy
+10,"A girl sees a dog 100m away from it and scuds off in the opposite direction at the speed of 12 kmph a minute later , the dog sees it and gives it a chase at the speed of 60 kmph. How soon will it take the dog to overtake it ?","["1.5", "2.5", "3.5", "4.5", "5.5"]",4.5,hard
+11,"The sum of two numbers is 528 and their H.C.F. is 33. The number of pairs of numbers satisfying the above condition is:","["4", "6", "8", "12", "10"]",4,easy
+12,"In a research and development department, 14 workers have a PhD and 30 workers dont have a PhD. In the department the no of women that dont have a PhD degree is 10 greater than the no of women who do have a PhD. If a third of the man working in the department have a PhD degree, than how many women w","["16", "32", "26", "15", "28"]",26,medium
+13,"Two numbers are in the ratio 3:5.If 9 is subtracted from each , the new numbers are in the ratio 12:23.The smaller number is :","["7", "17", "29", "33", "36"]",33,medium
+14,"If a sets of data consists of only the first 10 positive multiples of 5, what is the interquartile range of the set?","["15", "20", "25", "40", "26"]",25,easy
+15,"60 kg. of alloy A is mixed with 100 kg. of alloy B. If alloy A has lead and tin in the ratio 3:2 and alloy B hs tin and copper in the ratio 1:4 , then the amount of tin in the new alloy is:","["36kg.", "44kg.", "25kg.", "42kg.", "30kg."]",44kg.,easy
+16,"A lawn is in the form of an isosceles traingle. The cost of turfing it came to Rs.1200 at Rs4. per metres square. If the base be 40m long, find the length of each equal side.","["20m.", "30m.", "25m.", "42m", "12m."]",25m.,medium
+17,"A number is multiplied by 11 and 11 is added to the product. If the resulting number is divisible by 13 , the smallest original number is :","["12", "22", "15", "19", "18"]",12,easy
+18,"Find the slope of the line that has the points P(3,-4) and Q(-5,4) on it.","["-1", "1", "-2", "2", "1"]",-1,easy
+19,"What could be the range of a set consisting of odd multiples of 7?","["70", "14", "62", "21", "36"]",70,easy
+20,"The difference between two numbers is 1365. When the larger number is divided by the smaller one , the quotient is 6 and the remainder is 15. the smaller number is :","["240", "270", "295", "350", "Cannot be determined"]",270,easy
+21,"The Sum of two numbers is 28/25 of the first number. The second number is what percent of the first?","["12%", "14%", "16%", "18%", "20%"]",12%,easy
+22,"I gain 70 paise on Rs70. My gain percent is :","["0.1%", "1%", "7%", "10%", "17%"]",1%,easy
+23,"A shopkeeper sells one trasnsistor for Rs.840 at a gain of 20% and another for Rs.960. at a loss of 4%. His total gain or loss percent is:","["100/17 % loss", "100/17 % gain", "20/3 % gain", "20/3 % loss", "None of these"]","100/17 % gain",hard
+24,"A sells an article which costs him $400 to B at a profit of 20%. B then sells it to C , making a profit of 10% on the price he paid to A. How much does C pay B?:","["$472", "$476", "$528", "$532", "None of these"]",$528,medium
+25,"Rs.1210 were divided among A,B,C so that A:B = 5:4 and B:C = 9:10.Then C gets:","["Rs.340", "Rs.400", "Rs.540", "Rs.475", "Rs.40"]",Rs.400,medium
+26,"ABC is triangle such that AB=10 and AC=3.The side Bc is:","["equal to 13", "less than 13", "greater than 13", "None of these", "Cannot Predict"]","less than 13",easy
+27,"Which one of the following sets of lengths of side does not relate to that of a right triangle:","["3,4,5", "5,12,13", "7,24,25", "9,12,16", "12,35,37"]","9,12,16",easy
+28,"The perimeter of two similar traingles is 30cm and 20cm respectively. If one side of the first triangle is 15cm , then find out the corresponding side of the other triangle:","["20", "10", "30", "5", "40"]",10,easy
+29,"Per capita GDP of a country is defined as the ratio of the GDP, in million dollars, to the population, in millions, of the country. If the GDP of a country increased by 20% from 2015 to 2016 and at the same time, the population increased by 5%, what was the percent increase in 'Per capita GDP' of the country from 2015 to 2016?","["4%", "14%", "14.3%", "15%", "26%"]",14.3%,medium
+30,"A family consists of the father, mother, son and daughter. In the year 2015, the son, then aged 25 years moved away. The average age of the members, excluding the son, in the year 2018 is 24 years. What was the average age of the family in 2012?","["17", "18", "19", "20", "21"]",19,hard
+31,"A certain pet store sells only dogs and cats. In March, the store sold twice as many dogs as cats. In April, the store sold twice the number of dogs that it sold in March, and three times the number of cats that it sold in March. If the total number of pets the store sold in March and April combined was 500, how many dogs did the store sell in March?
+","["80", "100", "120", "160", "180"]",100,NULL
+32,"If the roots of the equation x2?16x?612=0 are a and b, what is the value of a+b?","["-612", "-16", "0", "16", "162"]",16,NULL
+33,"If x and y are non-negative integers such that 2x+3y=8 and z=x^2+y^2, what is the maximum value of z?","["0", "5", "13", "16", "25"]",16,NULL
+34,"If ?1 < h < 0, which of the following has the greatest value?","["1-h", "1+h", "1+h^2", "1-(1/h)", "1+(1/h)"]",1-(1/h),NULL
+35,"If |x|=|y|, which of the following must be true?","["x<y", "y>x", "x=y", "x^3=y^3", "x^4=y^4"]",x^4=y^4,NULL
+36,"If the average (arithmetic mean) of five distinct positive integers is 10, what is the difference between the largest possible value of the greatest integer and the least possible value of the greatest of the five integers?","["0", "5", "12", "28", "40"]",28,NULL
+37,"If two sets, Set A:{?10,?3,y^2,9,10,11}, and Set B:{0,2,?2y,12,13,15} have their elements arranged in ascending order, and have equal median values, what is the value of y?","["-3", "-2", "-1", "0", "1"]",-3,NULL
+38,"A 4 digit number divisible by 7 becomes divisible by 3, when 10 is added to it.The largest such number is:","["9947", "9987", "9989", "9999", "9996"]",9989,NULL
+39,"LCM of two prime numbers x and y (x>y) is 161.The value of 3y-x is:","["-2", "-1", "0", "1", "2"]",-2,NULL
+40,"A car uses 12 gallons of gasoline in travelling 240 miles.In order for the car to travel the same distance using 10 gallons of gasoline, by how many miles per gallon must the cars gas mileage be increased?","["2", "4", "6", "8", "10"]",4,NULL
+41,"On a certain scale of intensity,each increment of 10 in magnitude represents a tenfold increase in intensity.On this scale, an intensity corresponding to a magnitude of 165 is how many times as intensity corresponding to a magnitude of 125?","["40", "4", "1000", "10000", "10"]",10000,NULL
+42,"If x not equal to 0, 2x=5y,and 3z=7x,what is the ratio of z to y?","["2to21", "3to5", "14to15", "6to5", "35to6"]",35to6,NULL
+43,"The ratio of three numbers is 3:4:5 and the sum of their squares is 1250.The sum of numbers is:","["30", "60", "50", "90", "105"]",60,NULL
+44,"Salaries of Roger and Sammy are in the ratio 2:3.If the salary of each is increased by $4000,the new ratio becomes 40:57.What is Sammys present salary?","["$17030", "$60000", "$00050", "$53090", "None of these"]","None of these",NULL
+45,"Average cost of 5 apples and 4 mangoes is Rs.45.The average of 7 apples and 8 mangoes is Rs.48.Find the total cost of 24 apples and 24 mangoes.","["1125", "2250", "1845", "2025", "1175"]",2250,NULL
+46,"The average of 5 quantities is 10 and the average of 3 of them is 9.What is the average of the remaining 2?","["23", "11.5", "12", "11", "16.5"]",11.5,NULL
+47,"The average age group of 12 students is 20 years.If 4 more students join the group,the avearge age increases by 1 year.The average age of the new students is?","["21", "25", "22", "23", "24"]",24,NULL
+48,"The average temperature on wednesday,thursday and friday was 25 degree.The average temperature on thursday,friday and saturday was 24 degree.If the temperature on saturday was 27 degree,what was the temperature on wednesday?","["75degree", "72degree", "3degree", "30degree", "70degree"]",30degree,NULL
+49,"The average wages of a worker during a fortnight comprising 15 consecutive workinh days was Rs.90 per day.During the first 7 days,his average wage was Rs.87/day and in the last 7 days it was rs.92/day.What was his wage on the 8th day?","["95", "97", "96", "100", "98"]",97,NULL
+50,"Four cups of milk are to be poured into a 2-cup bottle and 4-cup bottle.If each bottle os to be filled to the same fraction of its capacity,how amny cups of milk should be poured into the 4-cup bottle?","["2/3", "7/3", "5/2", "8/3", "none of these"]",8/3,NULL
+51,"An alloy of zinc,tin and copper contains copper,zinc and tin in the ratio of 90:7:3.A second alloy containing copper and tin only is melted with the first ,and the mixture contains copper,zinc and tin in the ratio of 17:1:2.Find the ratio of copper and tin in the second alloy.","["30:11", "11:29", "29:11", "11:30", "none of these"]",29:11,NULL
+52,"3 litres of pure milk is added to 10 liters of a milk soltion containing 9% milk.Find the concentration of the resultant solution?","["33.3%", "40%", "50%", "30%", "60%"]",30%,NULL
+53,"Drum X is 1/2 full of oil and drum Y,which has twice the capacity of drum X, is 2/3 full of oil.If all the oil in the drum X is poured into drum Y,then drum Y will be filled to what fraction of its capacity?","["3/2", "5/6", "11/12", "7/6", "11/6"]",11/12,NULL
+54,"A merchant has 1000kg of sugar,part of which he sells at 8% of profit and the rest at 18% profit.He gains 14% on the whole.The quantity sold at 18% profit is:","["400kg", "560kg", "600kg", "640kg", "none of these"]",600kg,NULL
+55,"Tea worth rs.126per kg and Rs.135 per kg are mixed with a third variety in the ratio 1:1:2.If the mixture is worth Rs.153 per kg,the price of the third variety(per kg) will be:","["Rs.169.50", "Rs.170", "Rs.175.50", "Rs.180", "Rs.182.50"]",Rs.175.50,NULL
+58,"In what ratio must a grocer mix two varieties of pulses costing Rs.15 and Rs.20 per kg respectively so as to get a mixture worth Rs.16.50per kg?","["3:7", "5:7", "7:3", "7:5", "9:5"]",7:3,NULL
+59,"Find the ratio in which rice at RS. 7.20 a kg should be mixed with rice at Rs.5.70 per kg to produce a mixture worth Rs.6.30 per kg.","["1:3", "2:3", "3:4", "4:5", "3:7"]",2:3,NULL
+60,"In what ratio must tea at Rs.62 per kg be mixed tea at Rs.72 per k so that the mixture must be worth Rs.64.50 per kg?","["3:1", "3:2", "4:3", "5:3", "7:3"]",3:1,NULL
+61,"How many terms are there in the A.P. 20,25,30,...100?","["18", "15", "17", "20", "16"]",17,NULL
+62,"Find the value of the expression 1-6+2-7+3-8+....to 100 terms.","["-200", "-250", "200", "250", "-110"]",-250,NULL
+63,"Find the sum to 200 terms of the series 1+4+6+5+11+6+...","["30205", "30200", "30100", "30202", "30220"]",30200,NULL
+64,"If 1,a,b,c,625 are not all positive terms but form a series in G.P.,then find b.","["25", "67", "-50", "75", "125"]",25,NULL
+65,"The seventh term of a G.P. is 8 times the 4th term.Find the First term if its 5h term is 48.","["2", "4", "3", "5", "6"]",3,NULL
+66,"Find which term of sequence 2000,1995...will be the first negative term.","["420", "402", "421", "430", "401"]",402,NULL
+67,"A is twice as fast as B and B is thrice as fast as C is.The journey covered by Cin 54 minutes will be covered by A in:","["18min", "27min", "38min", "9min", "12min"]",9min,NULL
+68,"There are 12 yes or no questions.How many ways can these be answered?","["4096", "4086", "4025", "4000", "4095"]",4096,NULL
+69,"How many three digit numbers can be formed using digits 0to 9 if repetition is allowed?","["1000", "720", "900", "648", "none of these"]",900,NULL
+70,"How can you arrange 8 students who want to sit in a circle?","["8!", "(7-1)!", "5040", "(7+1)!", "7*7!"]",5040,NULL
+71,"Find the number of arrangements of the letters of the word METROORTEM","["10!", "10!*2!", "105400", "113400", "10!/5!"]",113400,NULL
+72,"How many different five-letter combinations can be created from the word TWIST? ","["65", "62", "60", "60", "69"]",60,NULL
+73,"Out of 6 people if 2 are to be selected how many ways are there if one person should never be selected. ","["5 ways", "10 ways", "15 ways", "20 ways", "24 ways"]","10 ways",NULL
+74,"Out of 6 consonants and 5 vowels,how many words of 3 consonants and 2 vowels can be formed. ","["24000", "12000", "28000", "16000", "18000"]",24000,NULL
+75,"How many signals can be made with 5 different flags by raising them any number at a time?","["375", "325", "475", "275", "625"]",325,NULL
+76,"We wish to select 6 persons from 8 ,but if A is chosen, then B must be chosen. In how many ways can the teams be constituted?","["32", "16", "24", "22", "48"]",22,NULL
+77,"How many natural numbers not exceeding 4321 can be formed with the digits 1,2,3 and 4, if the digits can repeat?","["64", "313", "256*4", "256", "256/4!"]",313,NULL
+78,"In a throw of two dice,find the propability of getting one prime and one composite number?","["1/2", "1/3", "2/3", "3/5", "none of these"]",1/3,NULL
+79,"Two dice are tossed.The probability that the total score is a prime number is:","["1/6", "5/12", "1/2", "7/9", "2/9"]",5/12,NULL
+80,"A speaks truth in 60% cases and B speaks truth in 70% cases.What is the propability that they will say the same thing while describing a single event?","["0.54", "0.27", "0.45", "0.63", "0.42"]",0.54,NULL
+81,"The radius of a right circular cylinder is increased by 50%.Find the % increase in volume.","["50%", "150%", "125%", "100%", "75%"]",125%,NULL
+82,"Which of the following could be the median of a set consisting of 6 different primes?","["2", "3", "9.5", "12.5", "39"]",39,NULL
+83,"What could be the range of a set consisting of odd multiples of 7?","["21", "24", "35", "62", "70"]",70,NULL
+84,"Whay is the range of set consisting of the first 100 multiples of 7 that are greater than 70?","["693", "700", "707", "777", "847"]",693,NULL
+85,"Set X consists of prime numbers {3,11,7,K,17,19}.If integer Y represents the product of all elements in set X and if 11Y is an even number,what is the range of set X?","["14", "16", "17", "20", "26"]",17,NULL
+86,"Set X consists of all two-digit primes and set Y consists of all positive odd multiples of 5 less than 100.If the two sets are combined into one ,what will be the range of the new set?","["84", "89", "90", "92", "95"]",92,NULL
+87,"What is the minimum percentage increase in the mean of set X {-4,-1,0,6,9} if its two smallest elements are replaced with two different primes?","["25%", "50%", "75%", "100%", "200%"]",100%,NULL
+88,"If a randomly selecteed non-negative single digit integer is added to set X {2,3,7,8},what is the probability that the median of the set will increase while its range will remain the same?","["20%", "30%", "40%", "50%", "60%"]",30%,NULL
+89,"Is set X is a normally distributed set of numbers with a mean of 4 and a standard deviation of 4,approximately what is the probability that a number chosen at random from the set will be negative?","["1/10", "1/6", "1/4", "1/3", "1/2"]",1/6,NULL
+90,"In a set of 1 million numbers,one percentile would represent what percent of the total number of terms?","["1,00,000", "10,000", "10,00", "100", "1"]",1,NULL
+91,"On a particular test whose scores are distributed normally,the 2nd percentile is 1900,while the 84th percentile is 2200.What score,rounded to the nearest 10,most closely corresponds tothe 16th percentile?","["1920", "1950", "1980", "2000", "2050"]",2000,NULL
+92,"The average number of passengers on a luxury bus is 120.If the number of passengers on a bus has a normal distribution with a standard deviation of 20,approximately what percent of luxury bus carry more than 140 passsengers? ","["16%", "48%", "68%", "88%", "98%"]",16%,NULL
+93,"During a sales contest at a retail store,50 employees sold a total of $70,000 worth of merchandise.If the standard deviation of sales among those employees was $130 and the sales were normally distributed,what percentage of employees sold $1270 or more worth of merchandis?","["28%", "50%", "65%", "84%", "98%"]",84%,NULL
+94,"If John makes a contribution to a charity fund at school,the average contribution size will increase by 50%,reaching $75 per person.If there were 5 other contributions made before John's, what is the size of his donation?","["$100", "$150", "$200", "$250", "$450"]",$250,NULL
+95,"The median annual household income in a certain community of 21 households is $50,000.If the mean income of a household increases by 10% per year over the next 2 years, what will be the median income in the community be in 2 years? ","["$50,000", "$60,000", "$60,500", "$65,000", "cannot be determined"]","cannot be determined",NULL
+96,"The y-intercept of the line 4x-3y+8=0 is?","["-2", "8/3", "1/2", "-8/3", "none of these"]",8/3,NULL
+97,"Find the slpoe of the line that has the points P(3,-4) and Q(-5,4) on it.","["-1", "1", "-2", "2", "none of these"]",-1,NULL
+98,"A 7-meter wide path surrounds a circular lawn whose diameter is 252m,then the area of the path is: ","["5698", "5689", "5798", "6598", "6859"]",5698,NULL
+99,"The radus of a right circular cylinder is increased by 50%.Find the % increase in volume.","["50%", "150%", "125%", "100%", "75%"]",125%,NULL
+100,"Find the circumference of a circular ring,if the inner and outer circumference measures 70.5 m and 71.5 m respectively.","["7/22 m", "7/44 m", "22/7 m", "44/7 m", "none of these"]","7/44 m",NULL

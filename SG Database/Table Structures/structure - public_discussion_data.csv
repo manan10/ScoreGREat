@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+pdid,int(11),NO,PRI,NULL,auto_increment
+que,varchar(500),YES,,NULL,
+username,varchar(20),YES,,NULL,
+answers,json,YES,,NULL,
+email,varchar(50),YES,,NULL,

@@ -1,0 +1,5 @@
+Field,Type,Null,Key,Default,Extra
+noteid,int(11),NO,PRI,NULL,auto_increment
+username,varchar(20),YES,,NULL,
+ntitle,varchar(50),YES,,NULL,
+ncontent,varchar(500),YES,,NULL,

@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+queid,int(11),YES,,NULL,
+result,tinyint(1),YES,,NULL,
+tstamp,double,YES,,NULL,

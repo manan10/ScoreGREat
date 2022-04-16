@@ -1,0 +1,12 @@
+Field,Type,Null,Key,Default,Extra
+id,int(11),NO,PRI,NULL,auto_increment
+p1,int(11),YES,,NULL,
+p2,int(11),YES,,NULL,
+game,int(11),YES,,NULL,
+turn,int(11),YES,,NULL,
+finished,tinyint(1),YES,,0,
+questions,json,YES,,NULL,
+round,int(11),YES,,0,
+score_p1,int(11),YES,,0,
+score_p2,int(11),YES,,0,
+winner,int(11),YES,,0,

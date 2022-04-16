@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:title="Home"
+            android:checked="true"/>
+        <item
+            android:id="@+id/nav_practice"
+            android:title="@string/menu_practice" />
+        <item
+            android:id="@+id/nav_public"
+            android:title="@string/menu_public" />
+        <item
+            android:id="@+id/nav_exp"
+            android:title="@string/menu_exp" />
+        <item
+            android:id="@+id/nav_mock"
+            android:title="@string/menu_mock" />
+        <item
+            android:id="@+id/nav_multi"
+            android:title="@string/menu_multi" />
+        <item
+            android:id="@+id/nav_awa"
+            android:title="@string/menu_awa" />
+        <item
+            android:id="@+id/save_notes"
+            android:title="Saved Notes" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Logout" />
+    </group>
+</menu>

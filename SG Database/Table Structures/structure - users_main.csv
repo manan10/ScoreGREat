@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+FNAME,varchar(15),YES,,NULL,
+LNAME,varchar(15),YES,,NULL,
+EMAIL,varchar(30),YES,,NULL,
+PWD,varchar(255),YES,,NULL,
+id,int(11),NO,PRI,NULL,auto_increment
+profile_pic,tinyint(1),YES,,0,
+profile_ext,varchar(5),YES,,NULL,

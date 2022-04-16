@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="icon" href="image/logo.png" type="image/icon type" style="width: max-content;">
+        <title>Score GREat</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Raleway&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./lib/bootstrap.min.css">
+        <script src="./lib/7aadfb7b53.js" crossorigin="anonymous"></script>
+        <script src="./lib/jquery.min.js"></script>
+        <script src="./lib/popper.min.js"></script>
+        <script src="./lib/bootstrap.min.js"></script>
+        <script>
+             
+        </script>
+        <style>
+            body {
+                font-family: 'Raleway', sans-serif;
+                font-size: 1.5vw;
+                font-weight: 700;
+            }
+
+            .form-control {
+                font-family: 'Raleway', sans-serif, 'FontAwesome';
+                height: 50px !important;
+            }
+
+            a, .flip-link {
+                text-decoration: none;
+                color: #ffa31a;
+            }
+
+            a:hover, .flip-link:hover {
+                color: brown;
+                cursor: pointer;
+            }
+
+            #main {
+                background-image: linear-gradient(to right, #e6e600, #ffa31a); 
+                background-image: -webkit-linear-gradient(left, #e6e600, #ffa31a);  
+                text-align: left; 
+                border-radius: 0 250px 250px 0;
+                box-shadow: 10px 10px 5px rgb(212, 212, 212); 
+                animation-name: anime;
+                animation-duration: 3s;
+                -webkit-animation-name: anime;
+                -webkit-animation-duration: 3s;
+            }
+            
+            .copy {
+           		position: absolute;
+           		bottom: 15px;
+            }
+
+            .flip-container {
+                perspective: 1000px;
+            }
+
+            .flip-container.hover .flipper {
+                transform: rotateY(-180deg);
+                -webkit-transform: rotateY(-180deg);
+            }
+            
+            .flip-container,
+            .front,
+            .back {
+                width: 100%;
+                height: 100%;
+            }
+            
+            .flipper {
+                transition: 0.6s;
+                -webkit-transition: 0.6s;
+                transform-style: preserve-3d;
+                -webkit-transform-style: preserve-3d;
+                position: relative;
+            }
+            
+            .front,
+            .back {
+                backface-visibility: hidden;
+                -webkit-backface-visibility: hidden;
+                position: absolute;
+                top: 0;
+                left: 0;
+            }
+            
+            .front {
+                z-index: 2;
+                transform: rotateY(0deg);
+                -webkit-transform: rotateY(0deg);
+            }
+            
+            .back {
+                transform: rotateY(-180deg);
+                -webkit-transform: rotateY(-180deg);
+            }
+            
+            .row:before, .row:after{
+                 display: inline-block !important;
+            }
+            
+            .fas, .far, .fab {
+                text-rendering: optimizeLegibility
+            }
+
+            @keyframes anime {
+                from {opacity: 0;}
+                to {opacity: 1;}
+            }
+            
+            @-webkit-keyframes anime {
+                from {opacity: 0;}
+                to {opacity: 1;}
+            }
+
+            @media only screen and (max-width: 990px) {
+                #main > p {
+                    display: none;
+                }
+
+                #main {
+                    box-shadow: 0px 0px grey;
+                }
+
+                body {
+                    background-image: linear-gradient(to right, #e6e600, #ffa31a); 
+                    font-size: large;
+                }
+
+                span > a {
+                    font-size: small;
+                }
+
+                a, .flip-link {
+                    color: crimson;
+                }
+
+                #cline {
+                    display: block !important;
+                    position: relative;
+                    top: 630px;
+                }
+            }
+        </style>
+    </head>
+
+    <body class="container-fluid bg-light">
+        <div class="row" style="height: 100vh;">
+            <div id="main" class="col-lg-6 col-sm-12 px-5">
+                <img src="./image/logo_name10.png" class="mx-auto d-block py-4 my-3" style="width: 35%; min-width: 175px;" alt="SG Logo">
+                <p>We at Score GREat are focused on One simple goal, to make us a one stop spot for everything you need to prepare for your GRE examination and help you achieve your academic goals in the most efficient and fun mannar.</p>
+                <p>Whether you are planing to go to graduate, business or law schools - or just exploring your options - you are taking an important step towards your future. It is a smart move to show schools your best and with the GRE, General Test, you can!</p>
+                <p class="mt-5 pt-4 copy" style="font-size: small;"><i class="far fa-copyright"></i> 2020 2S2 Inc. Ltd., All Rights Reserved.</p>
+            </div>
+            <div class="col-lg-6 col-sm-12 p-5 flip-container">
+                <div class="flipper">
+                    <div class="front">
+                        <h2 class="py-4"><b>Login</b></h2>
+                        <form action="./php/login.php" method="POST">
+                            <div class="form-group">
+                            <label for="email">Email:</label>
+                            <input type="email" class="form-control" placeholder="&#xf007;   Enter email" id="email" name="email" required>
+                            </div>
+                            <div class="form-group">
+                            <label for="pwd">Password:</label>
+                            <input type="password" class="form-control" placeholder="&#xf023;   Enter password" id="pwd" name="pwd" required>
+                            <span style="float: right; font-size: medium;"><a href="forgot-password.html">Forgot Password?</a></span>
+                            </div>
+                            <button type="submit" class="btn mt-2" style="background-color: black; color: white;" id='login'>Log In<i id="spinner" class="fas fa-spinner fa-pulse ml-2"></i></button>
+                        </form>
+                        <p class="py-5" style="text-align: center; font-size: 20px;">
+                            <b>New to Score GREat? Sign Up <span class="flip-link">Here</span></b> <br>
+                        </p>
+                    </div>
+                    <div class="back">
+                        <h2 class=""><b>Create Your Account</b></h2>
+                        <form action="./php/signup.php" method="POST">
+                            <label>Name:</label>
+                            <div class="row">
+                                <div class="col-lg-6 col-6 form-group">
+                                    <input type="text" class="form-control" placeholder="Firstname" id="fname" name="fname" required>
+                                </div>
+                                <div class="col-lg-6 col-6 form-group">
+                                    <input type="text" class="form-control" placeholder="Lastname" id="lname" name="lname" required>
+                                </div>
+                            </div>
+                            <div class="form-group">
+                                <label for="s-email">Email:</label>
+                                <input type="email" class="form-control" placeholder="Email" id="s-email" name="email" required>
+                            </div>
+                        
+                            <div class="form-group">
+                                <label for="spwd">Password:</label>
+                                <input type="password" class="form-control" placeholder="Password" id="spwd" name="pwd" required>
+                            </div>
+                            <div class="form-group">
+                                <label for="cpwd">Confirm Password:</label>
+                                <input type="password" class="form-control" placeholder="Confirm password" id="cpwd" name="cpwd" required>
+                            </div>
+                            <button type="submit" class="btn mt-2" style="background-color: black; color: white;" id='signup'>Submit<i id="spinner-s" class="fas fa-spinner fa-pulse ml-2" style=""></i></button>
+                        </form>
+                        <p class="py-4" style="text-align: center; font-size: 20px;">
+                            <b>Already have an account? Log In <span class="flip-link">Here</span></b> <br>
+                        </p>
+                    </div>
+                </div>
+                <p id="cline" class="mt-4" style="font-size: small; text-align: center; display: none;"><i class="far fa-copyright"></i> 2020 2S2 Inc. Ltd., All Rights Reserved.</p>
+            </div>
+        </div>
+    </body>
+    <script>
+        $(document).ready(function(){
+            $(window).load('./php/login-status.php', function(data){
+                if(data == 'true') {
+                    window.open("./php/main/dashboard.php", "_self");
+                }
+                else {
+                    $("body").removeClass("d-none");
+                }
+            });
+            
+            $("#spinner, #spinner-s").hide();
+            $("#login").click(function(){
+                if(($("#email").val() != "" && $("#pwd").val() != ""))
+                    $("#spinner").show();
+            });
+            
+            $("#signup").click(function(){
+                if(($("#fname").val() != "" && $("#lname").val() != "" && $("#s-email").val() != "" && $("#spwd").val() != "" && $("#cpwd").val() != ""))
+                    $("#spinner-s").show();
+            });
+            
+
+            $("#cpwd").blur(function(){
+                if($("#spwd").val() !== $("#cpwd").val()){
+                    alert("Password does not match!");
+                }
+            }); 
+
+            $(".flip-link").click(function(){
+                $(".flip-container").toggleClass('hover');
+            });
+        });        
+    </script>
+</html>

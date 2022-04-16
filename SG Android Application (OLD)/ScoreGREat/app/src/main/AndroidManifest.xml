@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.scoregreat">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/logo"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".SixTCAnswerFragment"></activity>
+        <activity android:name=".NineTCAnswerFragment" />
+        <activity android:name=".SEAnswerFragment" />
+        <activity android:name=".PracticeSE" />
+        <activity android:name=".PracticeRC" />
+        <activity android:name=".TCFragment" />
+        <activity android:name=".RatingFragment" />
+        <activity android:name=".SixTCActivity" />
+        <activity android:name=".NineTCActivity" />
+        <activity android:name=".ViewAwa" />
+        <activity android:name=".EmptyFragment" />
+        <activity android:name=".WriteAwa" />
+        <activity android:name=".MyWriteUps" />
+        <activity android:name=".AddAwaFragment" />
+        <activity android:name=".FeedFragment" />
+        <activity
+            android:name=".AwaHome"
+            android:label="@string/title_activity_awa_home" />
+        <activity android:name=".AnswerFragment" />
+        <activity android:name=".VerbalFragment" />
+        <activity android:name=".PracticeVocab" />
+        <activity android:name=".NotesDisplayFragment" />
+        <activity android:name=".diagnostic_test" />
+        <activity
+            android:name=".ResultFragment"
+            android:label="@string/title_activity_result_fragment"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".NotesFragment" />
+        <activity android:name=".HomeFragment" />
+        <activity android:name=".CalculatorFragment" />
+        <activity android:name=".PracticeFragment" />
+        <activity android:name=".Profile" />
+        <activity android:name=".Practice_Quant" />
+        <activity android:name=".user_signup" />
+        <activity
+            android:name=".UserHome"
+            android:label="@string/title_activity_user_home"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

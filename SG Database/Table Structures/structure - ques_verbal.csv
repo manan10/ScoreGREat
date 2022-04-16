@@ -1,0 +1,6 @@
+Field,Type,Null,Key,Default,Extra
+id,int(11),NO,PRI,NULL,auto_increment
+ques,varchar(600),YES,,NULL,
+opt,json,YES,,NULL,
+ans,json,YES,,NULL,
+difficulty,varchar(10),YES,,NULL,

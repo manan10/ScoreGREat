@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "112049216769",
+    "firebase_url": "https://score-great.firebaseio.com",
+    "project_id": "score-great",
+    "storage_bucket": "score-great.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112049216769:android:783d2693e3ec4c67",
+        "android_client_info": {
+          "package_name": "com.example.scoregreat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "112049216769-spui7bsu6i4t76e225d2o4lfva3rk8ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scoregreat",
+            "certificate_hash": "e48fb4f8aa3e15e970a828624e983bff846d558c"
+          }
+        },
+        {
+          "client_id": "112049216769-6vfvpnss7s431cujf09qs420qjpu5lca.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIrpV3c-Aju7k_VxHfT1tPmkKB_fGnPE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "112049216769-6vfvpnss7s431cujf09qs420qjpu5lca.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

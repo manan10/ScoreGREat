@@ -1,0 +1,1149 @@
+queid,userid,result,difficulty,tstamp
+1,user101,1,medium,52185
+1,user103,1,easy,60291
+2,user101,1,hard,45467
+2,user103,1,easy,53118
+1,user116,1,easy,19179
+1,user110,0,easy,83158
+2,user116,1,medium,16964
+1,user113,1,easy,81497
+16,user104,0,easy,200876
+16,user102,0,hard,232955
+17,user104,1,easy,30291
+18,user104,1,easy,21499
+1,user111,1,hard,181567
+3,user116,1,medium,85140
+16,user112,0,medium,187920
+16,user112,0,medium,187920
+3,user101,0,very hard,2147483647
+2,user110,0,hard,113050
+2,user111,0,hard,35936
+16,user117,0,very hard,154438
+2,user113,0,hard,1000
+4,user116,0,medium,43408
+17,user117,0,very hard,7137
+16,user119,1,easy,145716
+16,user121,1,easy,123967
+19,user104,0,medium,88636
+1,user122,0,medium,125528
+17,user102,1,easy,131151
+18,user112,0,easy,60765
+5,user116,1,medium,33043
+18,user117,1,very hard,38124
+3,user113,0,medium,53365
+4,user101,1,very hard,91017
+19,user117,1,very hard,9806
+1,user124,0,easy,140213
+20,user117,0,very hard,7122
+5,user101,1,easy,17583
+21,user117,0,very hard,5540
+19,user112,0,easy,53524
+3,user103,0,hard,304209
+19,user112,0,easy,53524
+18,user102,1,easy,63547
+22,user117,0,very hard,14033
+23,user117,0,very hard,6812
+24,user117,0,very hard,2685
+6,user116,0,very hard,75723
+25,user117,0,very hard,3602
+21,user112,0,medium,34479
+4,user113,1,easy,69055
+19,user102,0,easy,37990
+7,user116,1,medium,15590
+26,user117,0,very hard,13203
+5,user113,1,medium,14327
+6,user113,1,easy,10092
+8,user116,1,medium,19369
+22,user112,1,medium,32733
+17,user121,1,easy,149476
+17,user119,1,easy,151157
+27,user117,1,very hard,34364
+9,user116,1,easy,2147483647
+28,user117,0,very hard,2937
+3,user110,1,easy,215125
+29,user117,0,very hard,3346
+18,user119,1,easy,23713
+18,user121,1,easy,21114
+20,user104,1,medium,176440
+30,user117,1,very hard,3042
+7,user113,0,easy,41468
+23,user112,0,hard,38812
+3,user111,1,medium,206378
+2,user122,0,hard,192298
+4,user103,1,easy,147752
+21,user104,1,easy,37791
+19,user119,0,easy,47089
+20,user102,1,easy,112245
+19,user121,0,easy,39284
+6,user101,0,very hard,186436
+5,user103,1,easy,47054
+7,user101,1,easy,18595
+10,user116,0,medium,109449
+22,user104,1,easy,66183
+8,user101,1,medium,20800
+8,user113,1,easy,109994
+24,user112,0,medium,117744
+11,user116,1,easy,40614
+9,user101,1,easy,26305
+2,user124,1,hard,1000
+9,user113,0,medium,36643
+21,user102,1,easy,114990
+10,user113,1,hard,12772
+4,user110,1,easy,189697
+4,user111,1,easy,167692
+6,user103,0,medium,98273
+11,user113,0,medium,15566
+20,user121,1,easy,146413
+20,user119,1,easy,149554
+23,user104,0,hard,95452
+5,user110,0,easy,29304
+5,user111,0,easy,30649
+16,user123,1,medium,47927
+22,user102,1,easy,47743
+12,user113,0,medium,24560
+7,user103,1,easy,38185
+1,user130,0,medium,127563
+13,user113,0,hard,16325
+1,user129,0,medium,118313
+1,user133,0,medium,103207
+1,user134,0,medium,63700
+21,user119,1,easy,77152
+1,user133,0,medium,103207
+1,user133,0,medium,103207
+1,user133,0,medium,103207
+21,user121,1,easy,78219
+1,user133,0,medium,103207
+6,user110,0,easy,71393
+14,user113,0,medium,43526
+6,user111,0,easy,71759
+1,user108,1,easy,88167
+1,user135,1,easy,46384
+1,user107,1,easy,105262
+21,user121,1,easy,78219
+8,user103,1,easy,65983
+12,user116,0,easy,161456
+15,user113,1,medium,16093
+1,user133,0,medium,4786
+13,user116,0,easy,4248
+17,user123,1,easy,88737
+14,user116,0,easy,5227
+25,user112,0,medium,195575
+24,user104,0,hard,1000
+3,user124,1,medium,184667
+3,user122,1,easy,316739
+1,user145,1,very hard,22147
+7,user110,0,easy,51646
+18,user123,1,easy,23705
+9,user103,1,easy,29398
+7,user111,1,easy,63028
+10,user101,0,very hard,210974
+2,user135,1,easy,64044
+2,user134,0,very hard,76564
+22,user119,1,easy,70742
+22,user121,1,easy,56362
+1,user137,0,easy,19779
+1,user138,0,hard,113862
+2,user107,0,very hard,73655
+15,user116,1,medium,48490
+26,user112,0,medium,46552
+2,user108,1,medium,89875
+2,user138,1,medium,15612
+2,user133,0,hard,76119
+2,user137,0,easy,25958
+2,user137,0,easy,25958
+8,user111,1,easy,36412
+8,user110,1,medium,50790
+23,user102,0,medium,185837
+3,user145,1,very hard,7809
+27,user112,1,easy,2147483647
+1,user146,1,medium,52959
+4,user145,0,very hard,9251
+28,user112,1,easy,16984
+9,user111,1,easy,26749
+9,user110,1,easy,31349
+3,user138,0,medium,41265
+5,user145,0,easy,11127
+1,user140,1,medium,2147483647
+1,user140,1,medium,2147483647
+29,user112,0,medium,14918
+1,user131,1,medium,107814
+3,user137,1,easy,53990
+1,user131,1,medium,107814
+4,user138,1,medium,15826
+1,user131,1,medium,107814
+1,user131,1,medium,107814
+1,user141,1,easy,181400
+1,user131,1,medium,107814
+1,user131,1,medium,107814
+1,user131,1,medium,107814
+1,user131,1,medium,107814
+4,user137,1,hard,4392
+1,user131,1,medium,107814
+5,user138,0,easy,3381
+1,user131,1,medium,107814
+1,user131,1,medium,107814
+1,user131,1,medium,107814
+1,user131,1,medium,107814
+3,user135,1,easy,107173
+24,user102,1,easy,62978
+5,user137,1,very hard,8798
+25,user104,1,medium,148079
+6,user138,1,medium,15975
+6,user145,1,easy,47010
+6,user137,0,very hard,10804
+6,user145,1,easy,47010
+6,user145,1,easy,47010
+23,user119,1,easy,137504
+3,user133,1,easy,106240
+3,user134,1,hard,139529
+11,user101,0,very hard,141884
+1,user109,1,hard,1000
+7,user137,1,easy,14071
+7,user138,1,easy,20770
+19,user123,1,hard,159145
+23,user121,1,easy,144636
+30,user112,0,medium,60594
+1,user141,1,easy,5729
+10,user103,0,medium,166701
+8,user145,0,medium,24356
+25,user102,1,easy,45705
+3,user141,0,hard,1000
+26,user104,0,easy,40886
+5,user141,0,hard,1000
+1,user103,1,easy,6747
+3,user107,1,easy,167170
+3,user108,1,easy,157604
+9,user145,0,easy,24168
+4,user140,1,hard,1000
+3,user131,1,medium,85101
+8,user138,1,easy,43910
+2,user103,1,easy,8209
+4,user122,1,medium,217990
+8,user137,1,easy,49584
+4,user124,1,easy,226247
+3,user103,1,easy,2147483647
+26,user102,0,easy,2147483647
+27,user104,1,easy,42339
+6,user140,1,hard,1000
+2,user146,0,hard,163453
+4,user103,1,easy,4858
+9,user138,0,easy,21252
+7,user140,1,medium,4066
+7,user141,1,easy,42251
+5,user103,1,easy,3071
+9,user137,0,easy,21189
+24,user121,1,easy,74461
+10,user138,0,hard,4256
+24,user119,1,medium,84252
+27,user102,1,easy,20923
+2,user109,1,easy,87167
+1,user140,1,medium,3998
+5,user124,1,easy,30628
+1,user141,1,easy,3251
+10,user137,0,medium,11091
+6,user103,0,medium,16936
+5,user122,1,easy,49231
+10,user145,0,very hard,59476
+4,user134,1,medium,105668
+7,user103,1,easy,3431
+2,user141,0,medium,11456
+4,user133,1,medium,109101
+4,user133,1,medium,109101
+8,user103,1,easy,3488
+4,user135,1,easy,150135
+11,user145,0,easy,9789
+9,user103,1,easy,4989
+12,user145,0,easy,3122
+28,user102,1,medium,35824
+10,user103,0,easy,2697
+13,user145,0,easy,2712
+5,user133,0,easy,15779
+14,user145,0,easy,4531
+5,user134,0,easy,31905
+20,user123,1,medium,140633
+15,user145,0,hard,2667
+28,user104,1,easy,82935
+5,user135,0,easy,32782
+10,user111,0,easy,249616
+10,user110,0,medium,246630
+4,user131,0,easy,128399
+11,user138,0,easy,98667
+11,user137,0,easy,88929
+4,user107,1,easy,146562
+4,user108,1,easy,144062
+12,user137,1,very hard,6196
+29,user102,1,medium,74582
+3,user109,0,medium,116139
+11,user103,0,easy,81110
+13,user137,0,medium,15397
+21,user123,1,easy,71626
+14,user137,0,very hard,11735
+12,user138,0,easy,53582
+29,user104,1,easy,91918
+6,user134,1,very hard,111155
+15,user137,0,hard,25318
+6,user124,1,easy,174033
+5,user131,1,easy,86182
+22,user123,1,easy,49371
+7,user134,1,easy,13623
+13,user138,0,medium,31782
+6,user135,0,easy,125487
+11,user111,1,easy,102325
+11,user110,0,hard,1000
+14,user138,0,very hard,6516
+6,user122,1,medium,185031
+7,user124,0,easy,21243
+5,user108,1,easy,103293
+5,user107,1,hard,41859
+3,user141,0,medium,184876
+15,user138,0,easy,4030
+25,user119,1,medium,216440
+25,user121,1,easy,217062
+7,user135,0,easy,19749
+6,user133,0,hard,171044
+4,user109,0,medium,108009
+7,user122,0,easy,24477
+30,user104,1,medium,88239
+3,user146,1,easy,272595
+7,user133,1,easy,18793
+8,user124,1,easy,57738
+5,user109,0,easy,38510
+8,user135,1,easy,62485
+26,user121,1,easy,63152
+26,user119,1,easy,67470
+8,user122,1,easy,52804
+30,user102,1,easy,183273
+27,user119,1,easy,11807
+9,user135,0,easy,20525
+27,user121,1,hard,1000
+6,user131,0,hard,125744
+8,user134,1,medium,126214
+8,user133,1,medium,56245
+6,user108,0,easy,118172
+9,user122,1,easy,47643
+9,user134,0,medium,21910
+9,user133,0,hard,24120
+9,user124,1,easy,80630
+10,user133,0,very hard,6575
+10,user134,0,medium,13272
+11,user133,0,medium,3655
+7,user131,0,easy,50473
+11,user134,0,medium,2458
+1,user118,0,very hard,46038
+10,user135,0,easy,59965
+12,user133,0,medium,2310
+12,user134,0,easy,3819
+13,user133,0,easy,2041
+4,user146,1,medium,117707
+13,user134,0,hard,3056
+14,user133,0,easy,2972
+12,user101,0,hard,1000
+14,user134,0,medium,2489
+15,user133,0,medium,3210
+7,user108,1,easy,61068
+15,user134,0,easy,4809
+8,user131,0,hard,27402
+8,user131,0,hard,27402
+28,user121,1,easy,105072
+28,user119,1,easy,105546
+9,user131,0,medium,13477
+11,user135,0,easy,46559
+8,user108,1,easy,27658
+6,user109,0,hard,155881
+5,user146,1,easy,50755
+4,user141,1,medium,235545
+3,user140,0,hard,1000
+10,user131,0,hard,26017
+10,user131,0,hard,26017
+12,user135,0,medium,28382
+7,user109,1,easy,22593
+4,user140,1,easy,10261
+5,user141,0,easy,16173
+5,user140,0,medium,5886
+6,user140,0,very hard,11457
+2,user118,0,very hard,118107
+23,user123,1,hard,300120
+7,user140,1,hard,5199
+13,user101,1,medium,109843
+6,user141,0,hard,30212
+8,user140,0,very hard,6928
+12,user131,1,medium,60417
+13,user135,0,easy,64585
+9,user108,1,easy,92378
+6,user146,0,hard,82986
+7,user141,1,medium,24917
+8,user109,1,easy,72437
+13,user131,0,medium,21283
+9,user109,0,easy,3174
+14,user135,1,medium,20677
+7,user146,1,easy,17989
+3,user118,1,very hard,64113
+12,user111,0,medium,362403
+14,user131,1,hard,11832
+12,user110,0,hard,356763
+9,user140,0,hard,1000
+14,user101,1,very hard,58888
+10,user108,0,hard,35522
+15,user101,1,hard,1988
+10,user140,0,hard,3758
+10,user109,1,hard,26920
+11,user140,0,hard,6289
+15,user131,0,medium,16247
+8,user146,1,easy,34745
+29,user121,1,easy,170858
+8,user141,1,medium,56393
+29,user119,1,easy,171406
+9,user141,0,very hard,4382
+12,user140,1,medium,16183
+4,user118,1,very hard,44273
+10,user141,0,medium,4255
+13,user140,0,very hard,3288
+24,user123,1,medium,115969
+14,user140,1,hard,2386
+11,user141,0,very hard,3632
+15,user135,1,easy,68674
+9,user146,0,easy,38426
+11,user109,0,hard,58630
+5,user118,0,very hard,39870
+13,user110,1,hard,1000
+12,user109,0,medium,79783
+13,user111,1,medium,160910
+11,user108,0,easy,164345
+30,user119,0,hard,143583
+6,user118,0,very hard,90830
+10,user146,0,medium,118252
+7,user118,1,very hard,14026
+25,user123,1,easy,156148
+12,user103,0,medium,647020
+13,user109,0,medium,53280
+11,user146,1,hard,22299
+14,user111,0,easy,53303
+14,user110,0,easy,103058
+26,user123,0,easy,45944
+30,user121,1,easy,2147483647
+12,user108,0,medium,103651
+12,user141,0,hard,226759
+14,user109,0,medium,64967
+15,user140,0,hard,232818
+8,user118,1,very hard,86711
+16,user123,1,medium,19198
+13,user108,0,medium,25023
+14,user108,0,hard,3632
+17,user123,1,medium,6449
+15,user108,1,very hard,3461
+15,user109,0,medium,34440
+13,user141,0,very hard,38000
+18,user123,1,easy,3715
+1,user102,0,hard,1000
+9,user118,1,very hard,30215
+14,user141,1,very hard,2715
+2,user102,0,easy,2459
+19,user123,1,medium,5528
+15,user141,0,hard,3778
+3,user102,0,medium,2030
+4,user102,0,hard,2478
+5,user102,1,hard,2246
+20,user123,1,medium,12984
+6,user102,1,hard,1761
+7,user102,0,medium,2591
+21,user123,1,easy,9487
+13,user103,1,easy,149980
+10,user118,0,very hard,36888
+8,user102,0,medium,1854
+22,user123,1,medium,4142
+9,user102,1,medium,2513
+22,user123,1,medium,4142
+10,user102,0,medium,2119
+1,user119,0,easy,69113
+24,user123,1,medium,5906
+11,user102,0,medium,1580
+11,user118,0,very hard,25286
+25,user123,1,medium,13482
+12,user118,1,very hard,8723
+1,user120,0,medium,88003
+26,user123,1,easy,8996
+12,user146,0,medium,196124
+1,user121,0,easy,104453
+13,user146,0,hard,27753
+15,user110,0,very hard,195548
+10,user124,0,medium,669073
+14,user146,0,hard,13320
+10,user122,0,hard,688706
+15,user146,0,very hard,14923
+13,user118,0,very hard,86174
+16,user146,1,very hard,3579
+17,user146,0,very hard,3266
+18,user146,0,hard,3748
+27,user123,1,easy,112288
+14,user118,1,very hard,30520
+19,user146,1,very hard,9455
+15,user118,0,very hard,7583
+20,user146,0,very hard,2923
+21,user146,0,very hard,7096
+28,user123,1,easy,24520
+16,user118,0,very hard,7589
+22,user146,0,hard,10025
+17,user118,0,very hard,5242
+18,user118,1,very hard,4594
+23,user146,0,hard,13890
+29,user123,1,medium,29810
+24,user146,0,medium,8619
+19,user118,1,very hard,18067
+14,user103,1,easy,241036
+25,user146,1,hard,4939
+20,user118,0,very hard,13979
+26,user146,0,hard,15161
+2,user119,0,medium,250465
+21,user118,1,very hard,6156
+2,user121,0,easy,212207
+2,user120,1,medium,220753
+27,user146,0,medium,7521
+22,user118,0,very hard,12722
+15,user103,1,easy,50443
+28,user146,0,hard,24436
+29,user146,1,hard,7544
+23,user118,1,very hard,38964
+30,user146,0,hard,14475
+24,user118,0,very hard,5807
+11,user124,0,hard,254181
+25,user118,0,very hard,7225
+26,user118,1,very hard,32093
+27,user118,1,very hard,14125
+3,user119,0,medium,134317
+11,user122,0,medium,301696
+3,user120,0,hard,130378
+28,user118,0,very hard,4886
+3,user121,0,easy,129842
+29,user118,1,very hard,2147483647
+30,user118,0,very hard,6418
+12,user124,0,hard,2147483647
+13,user124,1,easy,81241
+12,user122,1,medium,215403
+4,user120,1,hard,219524
+4,user121,1,easy,207378
+4,user119,1,medium,228763
+5,user120,0,medium,27290
+5,user121,0,easy,26104
+5,user119,0,easy,26460
+5,user120,0,medium,27290
+1,user120,0,medium,4557
+2,user120,0,very hard,3300
+3,user120,0,easy,4946
+4,user120,1,very hard,4290
+14,user124,1,medium,92367
+5,user120,0,easy,2086
+30,user123,1,medium,598800
+15,user124,1,easy,105450
+6,user119,1,medium,243410
+6,user121,1,easy,260696
+6,user120,1,easy,302374
+13,user122,1,hard,1000
+7,user121,1,easy,114829
+7,user120,1,easy,13592
+7,user119,1,easy,136658
+14,user122,1,medium,24862
+8,user121,1,easy,27310
+8,user120,1,easy,24454
+8,user119,1,easy,24028
+15,user122,1,medium,8523
+9,user119,1,easy,34281
+9,user121,1,easy,38313
+9,user120,1,medium,40948
+10,user121,0,easy,7019
+10,user119,0,easy,12733
+10,user120,0,hard,8670
+11,user121,0,easy,6464
+11,user119,0,easy,4914
+12,user121,1,easy,31566
+13,user121,1,hard,6258
+12,user119,0,hard,42610
+14,user121,1,hard,3786
+15,user121,1,medium,3893
+13,user119,0,medium,25706
+14,user119,0,medium,9848
+15,user119,1,hard,4287
+11,user120,0,easy,130928
+12,user120,0,hard,3486
+13,user120,0,hard,2710
+14,user120,0,easy,3029
+15,user120,1,very hard,1781
+16,user156,1,easy,128533
+16,user152,1,medium,169405
+17,user156,0,easy,45199
+16,user160,1,medium,95384
+16,user153,1,easy,186405
+9,user163,0,easy,14871
+9,user163,0,easy,14871
+18,user156,1,easy,21497
+16,user157,1,hard,87990
+17,user152,1,easy,84697
+19,user156,0,easy,53040
+16,user169,1,medium,109882
+18,user152,1,easy,12859
+17,user153,1,easy,91854
+17,user160,0,hard,97651
+17,user157,1,medium,81292
+18,user157,0,easy,17805
+16,user161,1,medium,230187
+16,user162,1,medium,225680
+18,user153,1,easy,37441
+17,user169,0,easy,64771
+19,user157,0,easy,19762
+19,user152,1,medium,2147483647
+18,user160,0,hard,56941
+21,user156,1,easy,72779
+16,user166,0,very hard,209654
+16,user167,1,very hard,210274
+19,user153,1,easy,37556
+18,user169,1,easy,42075
+17,user161,1,easy,57954
+17,user162,1,easy,71456
+22,user156,1,hard,1000
+22,user156,1,hard,1000
+23,user156,0,easy,15056
+24,user156,0,easy,11922
+19,user160,0,easy,89678
+20,user157,0,very hard,106237
+18,user161,1,hard,1000
+18,user162,1,easy,48148
+16,user158,1,easy,182397
+19,user169,0,very hard,2147483647
+20,user153,1,medium,125249
+20,user153,1,medium,125249
+19,user162,0,easy,43600
+19,user161,0,easy,44637
+21,user157,1,hard,49054
+22,user157,1,easy,16257
+17,user158,0,medium,64275
+18,user158,1,easy,26111
+23,user157,0,medium,33081
+20,user169,0,very hard,68382
+16,user159,1,hard,1000
+25,user156,1,easy,126735
+20,user160,0,very hard,145423
+26,user156,0,easy,14259
+20,user152,1,medium,155865
+17,user166,1,medium,230296
+17,user167,1,easy,231550
+21,user169,0,very hard,43265
+24,user157,1,easy,51988
+19,user158,0,easy,54364
+22,user169,1,hard,13164
+27,user156,1,easy,40463
+17,user159,1,easy,65368
+23,user169,1,very hard,12247
+21,user152,1,medium,39096
+20,user161,1,easy,144881
+24,user169,1,very hard,6788
+20,user162,1,medium,147620
+21,user160,1,medium,67015
+18,user166,1,medium,75623
+18,user167,1,easy,73464
+25,user157,0,hard,64071
+25,user169,1,hard,37237
+28,user156,0,easy,58501
+22,user153,1,very hard,196119
+22,user152,1,medium,52916
+22,user160,0,easy,37931
+18,user159,1,hard,1000
+16,user168,0,medium,552763
+21,user161,1,easy,52711
+29,user156,1,easy,5719
+21,user162,1,easy,54741
+30,user156,1,easy,7211
+26,user157,0,hard,1000
+22,user161,1,easy,30594
+22,user162,1,easy,29139
+27,user157,1,easy,11220
+26,user169,0,hard,60188
+19,user167,0,hard,73972
+19,user166,0,very hard,80559
+20,user158,0,very hard,151515
+27,user169,1,easy,27503
+19,user159,0,hard,1000
+28,user169,0,very hard,18012
+29,user169,1,very hard,2147483647
+28,user157,1,easy,70403
+29,user157,1,very hard,5237
+23,user161,0,medium,99553
+23,user162,0,easy,112132
+30,user169,1,very hard,29831
+20,user167,0,hard,112184
+21,user158,1,easy,108837
+30,user157,0,easy,56182
+23,user153,0,hard,199526
+23,user160,0,very hard,202669
+24,user161,1,medium,58812
+24,user162,1,medium,48277
+20,user166,0,very hard,148728
+23,user152,1,hard,208099
+20,user166,0,very hard,148728
+24,user160,1,very hard,11251
+20,user159,1,easy,122716
+21,user167,0,very hard,75550
+22,user158,0,medium,75136
+22,user166,0,very hard,44674
+23,user166,0,hard,4120
+22,user167,1,hard,24848
+1,user182,0,medium,24389
+2,user182,1,very hard,11507
+1,user180,1,easy,67028
+23,user167,0,very hard,29826
+21,user159,1,easy,86612
+24,user153,1,medium,92205
+24,user167,0,hard,12822
+2,user180,1,medium,25719
+24,user152,1,medium,121115
+1,user177,0,easy,86488
+1,user177,0,easy,86488
+3,user182,0,hard,52970
+25,user167,0,hard,22771
+23,user158,1,medium,110325
+1,user193,1,easy,63326
+1,user188,1,very hard,2147483647
+22,user159,1,hard,1000
+25,user161,1,medium,191890
+1,user190,0,medium,99304
+25,user162,1,medium,192230
+1,user190,0,medium,99304
+25,user160,1,medium,181509
+1,user190,0,medium,99304
+26,user167,1,medium,45278
+1,user190,0,medium,99304
+1,user190,0,medium,99304
+3,user177,1,easy,64429
+24,user158,1,medium,39045
+25,user158,0,medium,5463
+2,user188,1,very hard,43900
+1,user185,0,easy,160275
+16,user191,1,medium,131027
+26,user160,0,easy,26807
+16,user194,0,hard,1000
+25,user152,1,easy,100056
+27,user167,0,hard,26170
+16,user189,0,medium,139608
+25,user153,1,easy,117622
+3,user180,0,hard,115300
+16,user183,1,medium,181960
+28,user167,1,very hard,15097
+27,user160,1,easy,24316
+26,user158,0,easy,36521
+29,user167,0,very hard,9744
+27,user158,1,easy,9825
+26,user161,0,medium,78906
+26,user162,0,easy,75750
+4,user182,0,easy,126468
+26,user153,1,easy,27483
+26,user152,1,easy,48422
+1,user201,1,hard,115584
+6,user190,0,hard,96703
+30,user167,0,hard,40901
+17,user191,1,easy,83595
+17,user189,1,hard,80217
+17,user183,1,medium,71396
+27,user153,1,easy,22841
+27,user152,1,easy,17015
+5,user182,0,easy,48728
+16,user174,0,medium,376596
+27,user162,1,hard,1000
+27,user161,1,easy,52639
+16,user174,0,medium,376596
+4,user180,1,easy,85427
+1,user193,1,medium,3976
+24,user166,0,hard,1000
+24,user166,0,hard,1000
+28,user158,1,easy,42207
+24,user166,0,hard,1000
+1,user206,1,medium,131603
+1,user181,0,hard,1000
+4,user177,1,medium,134207
+1,user206,1,medium,131603
+16,user176,1,medium,318524
+7,user190,1,easy,39901
+18,user191,1,medium,24572
+29,user158,1,easy,5325
+18,user189,1,easy,17857
+17,user194,1,easy,119140
+3,user188,0,very hard,137153
+30,user158,0,medium,6757
+18,user183,0,easy,33957
+2,user185,1,easy,139264
+28,user161,1,easy,30404
+28,user162,1,easy,32357
+27,user166,1,hard,1000
+6,user182,0,hard,37933
+16,user207,1,medium,159011
+1,user204,1,easy,105208
+28,user166,1,hard,5086
+16,user174,0,medium,7631
+16,user203,1,easy,167543
+1,user181,0,hard,1000
+16,user203,1,easy,167543
+29,user161,0,hard,12104
+16,user203,1,easy,167543
+18,user194,1,easy,28125
+29,user162,0,hard,14874
+16,user203,1,easy,167543
+29,user166,0,hard,5939
+28,user152,1,easy,60381
+19,user183,0,easy,27319
+30,user166,0,hard,3296
+5,user180,0,easy,58323
+28,user160,1,easy,136855
+16,user203,1,easy,5819
+17,user176,1,easy,56503
+30,user161,0,hard,23372
+30,user162,0,hard,20553
+19,user191,0,very hard,59880
+5,user177,0,medium,69265
+7,user182,0,easy,43224
+19,user194,0,medium,41121
+3,user206,1,medium,83375
+8,user190,1,easy,88486
+8,user182,1,easy,20602
+2,user181,0,hard,65515
+2,user201,1,hard,149990
+6,user177,0,medium,33427
+23,user159,1,hard,1000
+17,user174,1,easy,80497
+9,user182,0,easy,17727
+28,user153,1,hard,1000
+18,user174,1,easy,2510
+2,user204,1,hard,89911
+10,user182,0,hard,11282
+7,user177,1,medium,21239
+16,user185,0,easy,25747
+2,user193,1,easy,152955
+11,user182,0,hard,10920
+19,user189,0,easy,142696
+29,user160,0,very hard,100598
+29,user152,1,easy,116150
+12,user182,0,medium,14189
+4,user206,1,easy,74255
+18,user176,1,easy,107350
+20,user191,0,easy,104600
+24,user159,1,very hard,55307
+6,user180,0,medium,127456
+29,user153,1,easy,61214
+4,user188,0,very hard,168101
+8,user177,1,medium,48594
+9,user190,0,easy,93715
+7,user180,1,easy,8618
+5,user206,0,hard,1000
+3,user181,1,easy,2147483647
+17,user185,0,medium,2147483647
+19,user174,0,easy,80768
+20,user183,0,hard,158022
+20,user189,0,medium,54551
+21,user191,1,easy,36959
+5,user188,0,hard,1000
+8,user180,1,easy,28446
+9,user177,0,easy,23790
+22,user191,1,easy,13970
+21,user189,1,medium,24715
+1,user185,0,medium,4285
+17,user207,1,medium,212504
+17,user207,1,medium,212504
+17,user207,1,medium,212504
+19,user176,0,hard,1000
+2,user185,1,easy,2147483647
+2,user185,1,easy,2147483647
+9,user180,1,easy,28565
+3,user201,1,easy,155432
+20,user194,1,easy,178476
+17,user203,0,very hard,2147483647
+22,user189,1,easy,26535
+1,user185,0,easy,3358
+2,user185,1,easy,3667
+30,user152,1,easy,115675
+10,user177,0,medium,61390
+23,user191,0,easy,59978
+3,user185,0,easy,16039
+30,user160,0,easy,120662
+30,user153,0,easy,120681
+21,user194,1,easy,43953
+23,user189,0,medium,38881
+4,user185,0,medium,15945
+21,user183,0,medium,104710
+24,user191,0,medium,20645
+10,user190,1,easy,128331
+11,user177,0,medium,28782
+6,user188,0,very hard,106668
+13,user182,0,medium,162585
+6,user206,0,easy,142128
+25,user191,0,hard,16658
+26,user191,1,medium,2147
+14,user182,0,very hard,13535
+27,user191,0,hard,2189
+28,user191,0,hard,1856
+5,user185,0,easy,36834
+7,user206,1,easy,11782
+18,user203,0,easy,89642
+3,user193,0,medium,215964
+29,user191,1,hard,6782
+7,user188,1,easy,35034
+20,user176,1,easy,114759
+6,user185,1,medium,12640
+30,user191,1,hard,6722
+24,user189,0,hard,77294
+8,user206,1,easy,33225
+22,user183,0,medium,77097
+22,user194,0,hard,84228
+15,user182,1,hard,55032
+25,user159,1,hard,1000
+7,user185,0,easy,40940
+12,user177,0,hard,95097
+3,user204,0,very hard,305165
+8,user185,0,medium,5777
+25,user189,0,hard,43923
+4,user181,0,hard,244544
+10,user180,0,hard,186165
+23,user183,0,hard,43031
+19,user203,0,medium,85053
+9,user206,1,easy,48219
+9,user185,1,medium,17556
+8,user188,1,very hard,81666
+10,user185,0,easy,4669
+20,user207,1,medium,215381
+26,user159,0,hard,1000
+20,user174,0,easy,233549
+26,user189,1,easy,43418
+11,user185,1,easy,25411
+24,user183,1,easy,46815
+11,user180,0,very hard,53663
+4,user201,1,easy,237318
+12,user185,0,medium,10273
+12,user185,0,medium,10273
+27,user189,1,easy,21017
+13,user177,0,medium,87479
+27,user159,1,hard,1000
+12,user180,0,easy,20431
+23,user194,1,hard,125659
+21,user176,0,hard,155739
+9,user188,0,very hard,72485
+28,user189,1,easy,18458
+11,user190,0,easy,228996
+28,user159,1,hard,1000
+10,user188,0,very hard,29887
+21,user207,1,hard,96838
+14,user177,1,very hard,50782
+22,user176,0,easy,37613
+29,user159,1,hard,1000
+30,user159,0,hard,1000
+14,user185,0,easy,69760
+5,user201,1,easy,73726
+15,user177,0,hard,13029
+15,user185,0,easy,5103
+29,user189,1,medium,53627
+20,user203,0,hard,142298
+5,user181,0,easy,155375
+12,user190,0,medium,53340
+21,user174,1,medium,127630
+25,user183,1,hard,119066
+16,user185,0,easy,5125
+22,user207,1,medium,52618
+16,user185,0,easy,5125
+13,user180,1,easy,93201
+4,user204,0,hard,191262
+11,user188,0,very hard,55956
+18,user185,0,easy,1968
+6,user181,0,very hard,27384
+19,user185,1,easy,4089
+24,user194,0,easy,108390
+20,user185,0,easy,2510
+21,user185,1,easy,1711
+14,user180,0,medium,26820
+22,user185,0,easy,2799
+23,user185,1,easy,2400
+24,user185,0,easy,1551
+30,user189,0,easy,47919
+25,user185,1,easy,1911
+26,user185,1,easy,4698
+7,user181,1,easy,43493
+22,user174,0,easy,62985
+27,user185,0,easy,2600
+1,user160,0,very hard,148835
+12,user188,0,very hard,58274
+26,user183,1,easy,67976
+28,user185,0,easy,3063
+8,user181,1,easy,26434
+15,user180,1,easy,58288
+9,user181,1,medium,4657
+29,user185,0,easy,24165
+27,user183,1,easy,32174
+2,user160,0,easy,37815
+10,user206,0,easy,283080
+13,user188,1,very hard,55169
+10,user181,0,hard,23890
+6,user201,0,easy,171885
+4,user193,0,hard,1000
+4,user193,0,hard,1000
+11,user181,1,hard,22870
+5,user204,0,hard,159018
+3,user160,1,easy,54792
+14,user188,1,very hard,40905
+28,user183,1,medium,64400
+12,user181,0,medium,20385
+25,user194,0,hard,170049
+11,user206,0,easy,77314
+23,user207,0,hard,195023
+7,user201,1,easy,70349
+15,user188,1,very hard,38308
+21,user203,1,medium,239489
+13,user181,0,medium,62947
+24,user207,0,very hard,47111
+22,user203,1,easy,41247
+14,user181,1,hard,17191
+29,user183,0,medium,94396
+8,user201,1,easy,61439
+15,user181,0,hard,24595
+13,user190,1,easy,315830
+30,user185,0,easy,208610
+4,user160,0,hard,142222
+26,user194,1,medium,120691
+5,user160,1,easy,19089
+6,user193,1,easy,184656
+23,user174,0,medium,278858
+6,user160,0,hard,15128
+6,user160,0,hard,15128
+23,user203,0,easy,94025
+14,user190,1,easy,48723
+27,user194,1,easy,26544
+23,user176,0,hard,437753
+30,user183,1,medium,114023
+9,user201,1,easy,110915
+6,user204,1,medium,237500
+7,user193,1,hard,1000
+8,user160,1,easy,56325
+25,user207,0,hard,166721
+9,user160,1,medium,23721
+8,user193,1,easy,33708
+10,user160,0,very hard,6246
+24,user203,1,easy,94538
+15,user190,1,easy,76964
+24,user176,1,medium,100252
+24,user174,1,easy,153618
+16,user208,1,easy,185769
+28,user194,0,hard,138892
+26,user207,1,easy,2147483647
+27,user207,1,easy,273
+9,user193,1,easy,104437
+10,user201,0,hard,166819
+12,user206,0,hard,365589
+25,user176,1,easy,100202
+29,user194,0,medium,76945
+28,user207,1,hard,1000
+11,user201,0,hard,45501
+29,user207,0,very hard,7645
+25,user203,1,easy,153890
+30,user207,1,medium,7114
+0,,1,,0
+26,user176,0,easy,51224
+26,user203,1,easy,32577
+13,user206,1,medium,98990
+16,user190,1,very hard,100570
+0,user184,1,,0
+0,user183,1,,0
+7,user204,1,medium,283613
+11,user160,0,hard,260529
+27,user176,1,easy,64738
+12,user160,0,easy,3205
+17,user190,1,easy,31771
+13,user160,0,medium,8445
+17,user208,1,medium,232340
+14,user160,0,easy,3954
+18,user190,1,easy,4767
+15,user160,1,easy,4215
+28,user176,0,easy,33338
+18,user208,1,easy,12240
+30,user194,0,hard,162065
+29,user176,0,medium,6710
+1,user153,1,easy,58657
+27,user203,0,medium,130805
+14,user206,0,medium,131958
+2,user153,1,very hard,29465
+19,user190,0,easy,39558
+8,user204,1,easy,114197
+30,user176,0,hard,48397
+10,user193,0,easy,266214
+25,user174,1,medium,324748
+26,user174,1,easy,14653
+12,user201,0,hard,242854
+19,user208,0,very hard,100904
+9,user204,1,medium,42601
+15,user206,1,easy,60806
+16,user176,1,hard,1000
+28,user203,1,medium,83588
+3,user153,1,medium,75719
+17,user176,1,easy,5767
+11,user193,1,easy,58952
+18,user176,1,easy,3159
+19,user176,0,easy,3835
+27,user174,1,easy,61602
+20,user190,1,easy,61518
+4,user153,1,easy,41772
+20,user176,1,easy,27680
+29,user203,1,medium,52955
+21,user176,0,very hard,6147
+12,user193,1,easy,47528
+28,user174,1,easy,26557
+22,user176,0,easy,3444
+23,user176,0,easy,7868
+21,user190,1,hard,43056
+10,user204,1,hard,106292
+13,user193,1,easy,27335
+22,user190,1,easy,3610
+5,user153,1,easy,38098
+24,user176,1,easy,23833
+25,user176,1,easy,16230
+26,user176,0,easy,8057
+29,user174,0,easy,68700
+27,user176,1,easy,4638
+14,user193,1,easy,50479
+15,user193,1,easy,24797
+20,user208,1,easy,201499
+23,user190,0,medium,88978
+13,user201,0,hard,1000
+28,user176,1,easy,52523
+24,user190,0,very hard,14060
+16,user206,1,easy,162209
+11,user204,1,medium,117414
+29,user176,0,hard,3390
+6,user153,0,easy,106691
+30,user203,0,medium,153619
+25,user190,0,medium,5037
+30,user176,0,hard,4315
+26,user190,1,medium,1991
+14,user201,1,hard,25622
+26,user190,1,medium,1991
+21,user208,1,easy,39593
+26,user190,1,medium,1991
+26,user190,1,medium,1991
+7,user153,0,easy,18702
+30,user190,0,very hard,10174
+30,user190,0,very hard,10174
+30,user190,0,very hard,10174
+1,user153,1,easy,3198
+2,user153,1,easy,2425
+3,user153,1,easy,2964
+4,user153,1,easy,3016
+15,user201,1,hard,62681
+5,user153,1,easy,1625
+6,user153,0,easy,2490
+7,user153,1,easy,2420
+22,user208,0,hard,94875
+12,user204,0,hard,121173
+23,user208,1,hard,6424
+24,user208,0,hard,2376
+25,user208,0,medium,3338
+8,user153,1,easy,36666
+26,user208,1,medium,3403
+27,user208,1,hard,3203
+28,user208,1,hard,2253
+29,user208,0,medium,4287
+9,user153,1,easy,25873
+13,user204,0,hard,52618
+30,user174,0,medium,254758
+30,user208,0,medium,13815
+14,user204,1,easy,16188
+15,user204,0,medium,62679

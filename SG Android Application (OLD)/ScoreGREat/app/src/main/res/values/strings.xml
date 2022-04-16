@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Score GREat</string>
+    <string name="score_great">Score GREat</string>
+    <string name="username">Username</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_user_home">Score GREat</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">User</string>
+    <string name="nav_header_subtitle">abc@gmail.com </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_practice">Practice</string>
+    <string name="menu_mock">Mock Tests</string>
+    <string name="menu_multi">Multiplayer Games</string>
+    <string name="menu_public">Public Discussion</string>
+    <string name="menu_awa">AWA Section</string>
+    <string name="menu_exp">Expert Interaction</string>
+    <string name="title_activity_result_fragment">ResultFragment</string>
+    <string name="title_activity_awa_home">AwaHome</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>

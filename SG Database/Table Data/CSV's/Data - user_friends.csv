@@ -1,0 +1,12 @@
+id,friends,requests
+1,"[3, 4, 6]",[]
+2,"[1, 1]",[]
+3,NULL,NULL
+4,NULL,NULL
+5,NULL,NULL
+6,NULL,NULL
+7,NULL,[]
+8,NULL,[2]
+9,NULL,NULL
+10,NULL,NULL
+11,NULL,NULL

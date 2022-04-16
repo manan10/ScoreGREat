@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Score GREat|Log In</title>
+	<meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+</head>
+<body style="background-color: #ebebe0">
+	<div class="container">
+		<img src="images/logo_name10.png" class="image-fluid mx-auto d-block" style="width: 50%;max-height: 300px;max-width: 300px">
+	</div>
+	<div class="container" style="max-width: 700px;background-color: black">	
+		<div class="display-4 p-3" style="color: white;font-family: elephant">
+			<center>
+			Log In	
+			</center>
+		</div>
+		<div class="card mx-auto d-block" style="max-width: 500px;background-color: #ebebe0">
+			<div class="card-body">
+				<form action="php/login.php" method="POST">
+				  <div class="form-group">
+				    <label for="uid"><b>User ID:</b></label>
+				    <input type="text" class="form-control" placeholder="Enter User ID" id="uid" name="uid" required>
+				  </div>
+				  <div class="form-group">
+				    <label for="pwd"><b>Password:</b></label>
+				    <input type="password" class="form-control" placeholder="Enter password" id="pwd" name="pwd" required>
+				  </div>
+				  <center>
+				  	<button type="submit" class="btn btn-dark" style="">Submit</button>
+				  </center>
+				  </form>
+			</div>
+		</div>	
+		<br><br>
+
+	</div>
+	
+</body>
+</html>

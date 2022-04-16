@@ -1,0 +1,504 @@
+{
+  "questions" : {
+	"awa" : {
+		"q1" : "There is little justification for society to make extraordinary efforts – especially at a great cost in money and jobs – to save endangered animal or plant species.",
+		"q2" : "The best test of an argument is the argument’s ability to convince someone with an opposing viewpoint.",
+		"q3" : "Any leader who is quickly and easily influenced by shifts in popular opinion will accomplish little.",
+		"q4" : "Educators should base their assessment of students’ learning not on students’ grasp of facts but on the ability to explain the ideas, trends, and concepts that those facts illustrate.",
+		"q5" : "Critical judgment of work in any given field has little value unless it comes from someone who is an expert in that field.",
+		"q6" : "Nations should pass laws to preserve any remaining wilderness areas in their natural state.",
+		"q7" : "Some people claim that you can tell whether a nation is great by looking at the achievements of its rulers, artists, or scientists. Others argue that the surest indicator of a great nation is, in fact, the general welfare of all its people.",
+		"q9" : "The following appeared in a recommendation from the president of Amburg’s Chamber of Commerce. \"Last October the city of Belleville installed high-intensity lighting in its central business district, and vandalism there declined within a month. The city of Amburg has recently begun police patrols on bicycles in its business district, but the rate of vandalism there remains constant. We should install high-intensity lighting throughout Amburg, then, because doing so is a more effective way to combat crime. By reducing crime in this way, we can revitalize the declining neighborhoods in our city.\"",
+		"q10" : "An ancient, traditional remedy for insomnia – the scent of lavender flowers – has now been proved effective. In a recent study, 30 volunteers with chronic insomnia slept each night for three weeks on lavender-scented pillows in a controlled room where their sleep was monitored electronically. During the first week, volunteers continued to take their usual sleeping medication. They slept soundly but wakened feeling tired. At the beginning of the second week, the volunteers discontinued their sleeping medication. During that week, they slept less soundly than the previous week and felt even more tired. During the third week, the volunteers slept longer and more soundly than in the previous two weeks. Therefore, the study proves that lavender cures insomnia within a short period of time."
+	},  
+    "diagnostic" : {
+      "q1" : {
+        "ans" : "humiliate",
+        "op" : [ "descend", "humiliate", "inspect", "flatten", "upgrade" ],
+        "point" : "2",
+        "que" : "Meaning of the word \"Degrade\"?"
+      },
+      "q2" : {
+        "ans" : "cause of a process",
+        "op" : [ "guarantee", "ancestor", "bright color", "cause of a process", "speedy" ],
+        "point" : "3",
+        "que" : "Meaning of the word \"Catalyst\"?"
+      },
+      "q3" : {
+        "ans" : "avoiding waste",
+        "op" : [ "rich", "common", "avoiding waste", "religious", "cheap" ],
+        "point" : "5",
+        "que" : "Meaning of the word \"Economical\"?"
+      },
+      "q4" : {
+        "ans" : "certain",
+        "op" : [ "certain", "strange", "inferior", "blocked", "inspect" ],
+        "point" : "5",
+        "que" : "Meaning of the word \"Irrefutable\"?"
+      },
+      "q5" : {
+        "ans" : "20",
+        "op" : [ "16", "32", "20", "28", "18" ],
+        "point" : "5",
+        "que" : "In a research and development department, 14 workers have a PhD and 30 workers dont have a PhD. In the department the no of women that dont have a PhD degree is 10 greater than the no of women who do have a PhD. If a third of the man working in the department have a PhD degree, than how many women work in the department?"
+      }
+    },
+    "quants" : {
+      "fib" : {
+        "q1" : {
+          "ans" : "20",
+          "que" : "In a research and development department, 14 workers have a PhD and 30 workers dont have a PhD. In the department the no of women that dont have a PhD degree is 10 greater than the no of women who do have a PhD. If a third of the man working in the department have a PhD degree, than how many women work in the department?",
+          "sub-sec" : "Word Problems"
+        }
+      },
+      "mcq" : {
+        "q1" : {
+          "ans" : "20",
+          "op" : [ "16", "32", "20", "28", "18" ],
+          "que" : "In a research and development department, 14 workers have a PhD and 30 workers dont have a PhD. In the department the no of women that dont have a PhD degree is 10 greater than the no of women who do have a PhD. If a third of the man working in the department have a PhD degree, than how many women work in the department?",
+          "sub-sec" : "Word Problems"
+        },
+        "q10" : {
+          "ans" : "$528",
+          "op" : [ "$472", "$476", "$528", "$532", "None of these" ],
+          "que" : "A sells an article which costs him $400 to B at a profit of 20%. B then sells it to C , making a profit of 10% on the price he paid to A. How much does C pay B?:",
+          "sec" : "Arithmetic",
+          "sub-sec" : "Profit and Loss"
+        },
+        "q11" : {
+          "ans" : "33",
+          "op" : [ "27", "33", "49", "55", "57" ],
+          "que" : "Two numbers are in the ratio 3:5.If 9 is subtracted from each , the new numbers are in the ratio 12:23.The smaller number is :",
+          "sec" : "Arithmetic",
+          "sub-sec" : "R , P and V"
+        },
+        "q12" : {
+          "ans" : "Rs.400",
+          "op" : [ "Rs.340", "Rs.400", "Rs.540", "Rs.475", "Rs.40" ],
+          "que" : "Rs.1210 were divided among A,B,C so that A:B = 5:4 and B:C = 9:10.Then C gets:",
+          "sec" : "Arithmetic",
+          "sub-sec" : "R , P and V"
+        },
+        "q13" : {
+          "ans" : "44kg.",
+          "op" : [ "36kg.", "44kg.", "53kg.", "80kg.", "120kg." ],
+          "que" : "60 kg. of alloy A is mixed with 100 kg. of alloy B. If alloy A has lead and tin in the ratio 3:2 and alloy B hs tin and copper in the ratio 1:4 , then the amount of tin in the new alloy is:",
+          "sec" : "Arithmetic",
+          "sub-sec" : "R , P and V "
+        },
+        "q14" : {
+          "ans" : "less than 13",
+          "op" : [ "equal to 13", "less than 13", "greater than 13", "None of these", "Cannot Predict" ],
+          "que" : "ABC is triangle such that AB=10 and AC=3.The side Bc is:",
+          "sec" : "Geometry",
+          "sub-sec" : "Triangles"
+        },
+        "q15" : {
+          "ans" : "9,12,16",
+          "op" : [ "3,4,5", "5,12,13", "7,24,25", "9,12,16", "12,35,37" ],
+          "que" : "Which one of the following sets of lengths of side does not relate to that of a right triangle:",
+          "sec" : "Geometry",
+          "sub-sec" : "Triangle"
+        },
+        "q16" : {
+          "ans" : "10",
+          "op" : [ "20", "10", "30", "5", "40" ],
+          "que" : "The perimeter of two similar traingles is 30cm and 20cm respectively. If one side of the first triangle is 15cm , then find out the corresponding side of the other triangle:",
+          "sec" : "Geometry",
+          "sub-sec" : "Triangle"
+        },
+        "q2" : {
+          "ans" : "12",
+          "op" : [ "12", "22", "26", "53", "67" ],
+          "que" : "A number is multiplied by 11 and 11 is added to the product. If the resulting number is divisible by 13 , the smallest original number is : ",
+          "sec" : "Arithmetic",
+          "sub-sec" : "Numbers and Divisibility"
+        },
+        "q3" : {
+          "ans" : "270",
+          "op" : [ "240", "270", "295", "360", "Cannot be determined" ],
+          "que" : "The difference between two numbers is 1365. When the larger number is divided by the smaller one , the quotient is 6 and the remainder is 15. the smaller number is :",
+          "sec" : "Arithmetic",
+          "sub-sec" : "Numbers and Divisibility"
+        },
+        "q4" : {
+          "ans" : "4",
+          "op" : [ "4", "6", "8", "12", "16" ],
+          "que" : "The sum of two numbers is 528 and their H.C.F. is 33. The number of pairs of numbers satisfying the above condition is:",
+          "sec" : "Arithmetic",
+          "sub-sec" : "Numbers and Divisibility"
+        },
+        "q5" : {
+          "ans" : "125%",
+          "op" : [ "12.5%", "40%", "80%", "125%", "75%" ],
+          "que" : "The ratio 5:4 expressed as a percent equals:",
+          "sec" : "Arithmetic",
+          "sub-sec" : "Percentage"
+        },
+        "q6" : {
+          "ans" : "60",
+          "op" : [ "15", "60", "600", "3600", "Both 60 and 3600" ],
+          "que" : "If p% of p is 36 , then p is equal to :",
+          "sec" : "Arithmetic",
+          "sub-sec" : "Percentage"
+        },
+        "q7" : {
+          "ans" : "12%",
+          "op" : [ "12%", "14%", "16%", "18%", "20%" ],
+          "que" : "The Sum of two numbers is 28/25 of the first number. The second number is what percent of the first?",
+          "sec" : "Arithmetic",
+          "sub-sec" : "Percentage"
+        },
+        "q8" : {
+          "ans" : "1%",
+          "op" : [ "0.1%", "1%", "7%", "10%", "17%" ],
+          "que" : "I gain 70 paise on Rs70. My gain percent is :",
+          "sec" : "Arithmetic",
+          "sub-sec" : "Profit and Loss"
+        },
+        "q9" : {
+          "ans" : "100/17 % gain",
+          "op" : [ "100/17 % loss", "100/17 % gain", "20/3 % gain", "20/3 % loss", "None of these" ],
+          "que" : "A shopkeeper sells one trasnsistor for Rs.840 at a gain of 20% and another for Rs.960. at a loss of 4%. His total gain or loss percent is:",
+          "sec" : "Arithmetic",
+          "sub-sec" : "Profit and Loss"
+        }
+      }
+    },
+    "verbal" : {
+      "rc" : {
+        "q1" : {
+          "ans" : "fine",
+          "op" : [ "a", "b", "c", "d", "fine" ],
+          "que" : "how are you?"
+        }
+      },
+      "se" : {
+        "q1" : {
+          "ans" : [ "perceptive", "insightful" ],
+          "op" : [ "heuristic", "perceptive", "poetic", "insightful", "prosaic", "iconoclastic" ],
+          "que" : "Like other metaphors, the \"Book of Nature\" has to 2 facets: it is _______ but if taken literally, it may mislead."
+        },
+        "q10" : {
+          "ans" : [ "deference", "respect" ],
+          "op" : [ "benefit", "deference", "benevolence", "condition", "mood", "respect" ],
+          "que" : "Curiously enough ,the other man,too had changed as though in sympathetic _____ to his superior officer. "
+        },
+        "q11" : {
+          "ans" : [ "hegemony", "predominance" ],
+          "op" : [ "garb", "poverty", "subordination", "chaos", "hegemony", "predominance" ],
+          "que" : "By nature authoritative and by disposition demanding,as long as he remained in that office,he maintained his _______."
+        },
+        "q12" : {
+          "ans" : [ "clandestine", "under wraps" ],
+          "op" : [ "advertised", "repressed", "clandestine", "behind", "under wraps", "scripted" ],
+          "que" : "Afraid of the reaction from his parents as well as the parents of his wife,he decided to keep the fact _______ that they were alraedy married."
+        },
+        "q13" : {
+          "ans" : [ "grateful", "indebted" ],
+          "op" : [ "depressed", "discouraged", "distressed", "frustrated", "grateful", "indebted" ],
+          "que" : "The young man felt _______ to the old woman for saving him from falling from the bridge even though the effort had left her bruised and sprained."
+        },
+        "q14" : {
+          "ans" : [ "impervious", "watertight" ],
+          "op" : [ "impervious", "hidden", "watertight", "penetrable", "hard", "dry" ],
+          "que" : "An artisan well is dug up to a/an ______ layer of rocks,such that water can go beyond no more. "
+        },
+        "q15" : {
+          "ans" : [ "perspicuity", "unambiguity" ],
+          "op" : [ "frankness", "offence", "obtuseness", "vivacity", "perspicuity", "unambiguity" ],
+          "que" : "While most writers today have preferred a nebulous writing style,this author stands out from the crowd for a persistent______ in his style. "
+        },
+        "q16" : {
+          "ans" : [ "ecstasy", "rhapsody" ],
+          "op" : [ "depression", "ecstasy", "conundrum", "disappointment", "tranquility", "rhapsody" ],
+          "que" : "On hearing the news that he had won the jackpot he was in a state of______. "
+        },
+        "q17" : {
+          "ans" : [ "indigence", "optimism" ],
+          "op" : [ "affluence", "indigence", "exuberance", "opulence", "optimism", "parsimony" ],
+          "que" : "It is immature to believe only the poor have problems;even ______ can sometimes create its own problems. "
+        },
+        "q18" : {
+          "ans" : [ "sumptuous", "appetizing" ],
+          "op" : [ "sumptuous", "cheap", "appetizing", "poor", "meager", "nutritious" ],
+          "que" : "The poor man ended up staring at the ______ lunch because it was more than,and it smelt better than,what he had ever imagined. "
+        },
+        "q19" : {
+          "ans" : [ "a trivial", "a nugatory" ],
+          "op" : [ "a difficult", "an easy", "a small", "an important", "a trivial", "a nugatory" ],
+          "que" : "Compared to the more exigent problems we are currently faced with,this is______ matter. "
+        },
+        "q2" : {
+          "ans" : [ "adulterated", "spurious" ],
+          "op" : [ "adulterated", "illicit", "imported", "country-made", "spurious", "stale" ],
+          "que" : "The new law is expected to come down harshly on those involved in manufacture and trade of _______ liqour. "
+        },
+        "q20" : {
+          "ans" : [ "rabid", "berserk" ],
+          "op" : [ "tame", "meek", "mild", "rabid", "domestic", "berserk" ],
+          "que" : "Be it your pet dog,or your most ardent follower-if he goes ______ ,get rid of him. "
+        },
+        "q21" : {
+          "ans" : [ "sulky", "brooding" ],
+          "op" : [ "mild", "sulky", "cheerful", "loving", "kind", "brooding" ],
+          "que" : " We called him a wet blanket because of his ______ disposition,which he managed to maintain irrespective of how lively an occasion was. "
+        },
+        "q22" : {
+          "ans" : [ "an ancient", "an antiquated" ],
+          "op" : [ "an ancient", "an antiquated", "a rusted", "a new", "a recent", "a corrugated" ],
+          "que" : "While scouting the stash in the attic,he found ______ statue of the deity worshipped by his ancestors,a rare specimen. "
+        },
+        "q23" : {
+          "ans" : [ "dubious", "questionable" ],
+          "op" : [ "casual", "surprising", "dubious", "certain", "questionable", "divine" ],
+          "que" : "The sudden appearance of the stranger in the cottage despite all doors being closed is ______. "
+        },
+        "q24" : {
+          "ans" : [ "uncivilised", "boorish" ],
+          "op" : [ "bad", "uncivilzed", "cruel", "civilised", "boorish", "ignoramus" ],
+          "que" : "Disconnected from civilization since forever,with not one visitor in last few centuries,the inhabitants of the island had become______. "
+        },
+        "q25" : {
+          "ans" : [ "regular", "periodic" ],
+          "op" : [ "accidental", "strange", "regular", "frivilous", "occasional", "periodic" ],
+          "que" : "Since his mother has been keeping unwell,he makes ______ visits to Delhi,where his mother stays. "
+        },
+        "q3" : {
+          "ans" : [ "antipathy", "repugnance" ],
+          "op" : [ "condescension", "antipathy", "respect", "prejuidice", "bias", "repugnance" ],
+          "que" : "Between them there had sprung up from the first moment a strong and mutual _______."
+        },
+        "q4" : {
+          "ans" : [ "approbation", "warm approval" ],
+          "op" : [ "consideration", "disgust", "smirk", "approbation", "warm approval", "amusement" ],
+          "que" : "He glanced at his cousin and the young lady visitor; and they were both regarding him with a smile of _______."
+        },
+        "q5" : {
+          "ans" : [ "assiduous", "sedulous" ],
+          "op" : [ "inanimate", "assiduous", "protective", "nit-picking", "sedulous", "faithful" ],
+          "que" : "He had simply become the obedient and _______ secretary."
+        },
+        "q6" : {
+          "ans" : [ "autonomous", "self governing" ],
+          "op" : [ "regulated", "unregulated", "autonomous", "self governing", "foreign", "idiosyncratic" ],
+          "que" : "The administration has fallen into disarray since the day the government let the state function in a/an _______ manner."
+        },
+        "q7" : {
+          "ans" : [ "bare", "austere" ],
+          "op" : [ "bare", "austere", "bright", "glowing", "tired", "forgettable" ],
+          "que" : "He was without arms , and  his paint tended rather to soften than increase the natural sternness of his _______ countenance."
+        },
+        "q8" : {
+          "ans" : [ "bombastic", "grandiloquent" ],
+          "op" : [ "cogent", "bombastic", "incendiary", "articulate", "glib", "grandiloquent" ],
+          "que" : "His speeches are outbursts of incredible arrogance,equally powerful and ______."
+        },
+        "q9" : {
+          "ans" : [ "complaisant", "fawning" ],
+          "op" : [ "disciplined", "complaisant", "fawning", "gauche", "animated", "delightful" ],
+          "que" : "In education he was philistine,hence in behaviour _______."
+        }
+      },
+      "tc" : {
+        "nine" : {
+          "q1" : {
+            "ans" : [ "too quickly", "hasty", "slower" ],
+            "op" : [ "too deeply", "too warily", "too quickly", "firm", "labored", "hasty", "slower", "precipitous", "overt" ],
+            "que" : "A highly intelligent person often thinks (i) _______, a few snippets of information can trigger a (ii) ________ conclusion that might not stand up to closure, and (iii) ________, scrutiny."
+          },
+          "q2" : {
+            "ans" : [ "evidence", "exonarated", "misappropriation" ],
+            "op" : [ "hypothesis", "evidence", "presence", "exonarated", "expatriated", "impeached", "misanthropy", "duplicity", "misappropriation" ],
+            "que" : "After not finding (i)_______ of any wrongdoing against the mayor , the jury (ii)_______ him of the charges of (iii)_______ of funds that were allocated by the government for development schemes."
+          },
+          "q3" : {
+            "ans" : [ "laconic", "delineated", "pursuasively" ],
+            "op" : [ "loquacious", "laconic", "illustrative", "delineated", "prepared", "construed", "elaborately", "pursuasively", "direfully" ],
+            "que" : "We appreciated his (i)_______ summary of the situation ; he wasted no words yet (ii)_______ his position most (iii)_______."
+          },
+          "q4" : {
+            "ans" : [ "faultlessly", "brilliant", "insight" ],
+            "op" : [ "faultlessly", "hastily", "improperly", "brilliant", "judicious", "disastrous", "insight", "sophistry", "garrulity" ],
+            "que" : "The mathematician's proof was so (i)_______ described that her colleagues had to concede that it was (ii)_______ , yet another example of her powerful (iii)_______."
+          },
+          "q5" : {
+            "ans" : [ "uncouth", "determination", "refinement" ],
+            "op" : [ "sublime", "florid", "uncouth", "desire", "determination", "vengeance", "expressionism", "generosity", "refinement" ],
+            "que" : "The critics had savaged the artist's work as childish and (i)_______.To prove his mettle , the artist began his next series of paintings with a (ii)_______.He worked day and night , incessantly at times , to finally come up with work that proved unanimously that he was capable of portraying maturity and (iii)_______"
+          }
+        },
+        "six" : {
+          "q1" : {
+            "ans" : [ "shoulder", "controversial" ],
+            "op" : [ "hedge", "shoulder", "mitigate", "unexceptionable", "controversial", "jaundiced" ],
+            "que" : "The publishers, unwilling to (i) _______ the entire risk, insisted that the author pay half the cost of the initial print run of his (ii) ________ new book."
+          },
+          "q2" : {
+            "ans" : [ "strenuous", "unmanageable" ],
+            "op" : [ "academic", "didactic", "strenuous", "discordant", "unmanageable", "purposeless" ],
+            "que" : "As the year wore on, his study schedule, which was already (i)_______, beacame so burdensome as to be completely (ii)_______."
+          },
+          "q3" : {
+            "ans" : [ "facile", "provides" ],
+            "op" : [ "facile", "prehensile", "precise", "provides", "constructs", "promotes" ],
+            "que" : "Not content to offer his readers a (i)_______ account of his life in politics , Winston Churchill (ii)_______ a deeply penetrating look at the inner workings of government ."
+          },
+          "q4" : {
+            "ans" : [ "majestic", "awestruck" ],
+            "op" : [ "majestic", "fearful", "disdainful", "awestrcuk", "confused", "behind" ],
+            "que" : "Siberian tigers are considered among the most (i)_______ of animals. Their striking coloration , powerful musculature and aloof bearing leave many people (ii)_______."
+          },
+          "q5" : {
+            "ans" : [ "proliferated", "ubiquity" ],
+            "op" : [ "been moulded", "amalgamated", "proliferated", "ubiquity", "dependablity", "status symbol" ],
+            "que" : "Though automobiles were relatively scarce in the first decades of the 20th century , by 1950 they had (i)_______ to thr point of (ii)_______."
+          }
+        }
+      }
+    },
+    "vocabs" : {
+      "q1" : {
+        "ans" : "humiliate",
+        "op" : [ "descend", "humiliate", "inspect", "flatten", "upgrade" ],
+        "que" : "Meaning of the word \"Degrade\"?"
+      },
+      "q10" : {
+        "ans" : "determine",
+        "op" : [ "abondon", "determine", "declare innocent", "rewrite", "I'm not sure" ],
+        "que" : "Meaning of the word \"Resolve\"?"
+      },
+      "q11" : {
+        "ans" : "put somebody down",
+        "op" : [ "enrage", "shrink", "put somebody down", "reduce in physical size", "I'm not sure" ],
+        "que" : "Meaning of the word \"Belittle\"?"
+      },
+      "q12" : {
+        "ans" : "matching",
+        "op" : [ "done", "flattering", "free", "matching", "I'm not sure" ],
+        "que" : "Meaning of the word \"Complimentary\"?"
+      },
+      "q13" : {
+        "ans" : "emotional",
+        "op" : [ "emotional", "lacking focus", "imprecise", "unstable", "I'm not sure" ],
+        "que" : "Meaning of the word \"Sentimental\"?"
+      },
+      "q14" : {
+        "ans" : "highest point",
+        "op" : [ "award", "front of a ship", "lucky charm", "highest point", "I'm not sure" ],
+        "que" : "Meaning of the word \"Pinnacle\"?"
+      },
+      "q15" : {
+        "ans" : "boaster",
+        "op" : [ "boaster", "rebel", "philosopher", "manager", "I'm not sure" ],
+        "que" : "Meaning of the word \"Egotist\"?"
+      },
+      "q16" : {
+        "ans" : "united",
+        "op" : [ "united", "gullible", "tenacious", "filtered", "I'm not sure" ],
+        "que" : "Meaning of the word \"Cohesive\"?"
+      },
+      "q17" : {
+        "ans" : "unbiased",
+        "op" : [ "guilty", "expressed in words", "unbiased", "part of a whole", "I'm not sure" ],
+        "que" : "Meaning of the word \"Impartial\"?"
+      },
+      "q18" : {
+        "ans" : "peaceful",
+        "op" : [ "sorrowful", "peaceful", "extremely hot", "disorganised", "I'm not sure" ],
+        "que" : "Meaning of the word \"Serene\"?"
+      },
+      "q19" : {
+        "ans" : "independent",
+        "op" : [ "without a name", "independent", "productive", "uncaring", "I'm not sure" ],
+        "que" : "Meaning of the word \"Autonomous\"?"
+      },
+      "q2" : {
+        "ans" : "cause of a process",
+        "op" : [ "guarantee", "ancestor", "bright color", "cause of a process", "speedy" ],
+        "que" : "Meaning of the word \"Catalyst\"?"
+      },
+      "q20" : {
+        "ans" : "remove objectionable material",
+        "op" : [ "count", "remove objectionable material", "protect from danger", "disapprove of", "I'm not sure" ],
+        "que" : "Meaning of the word \"Censor\"?"
+      },
+      "q21" : {
+        "ans" : "sealed",
+        "op" : [ "shameless", "slow-moving", "sealed", "momentary", "I'm not sure" ],
+        "que" : "Meaning of the word \"Impermeable\"?"
+      },
+      "q22" : {
+        "ans" : "hypnotize",
+        "op" : [ "bury", "remember", "separate", "hypnotize", "I'm not sure" ],
+        "que" : "Meaning of the word \"Mesmerize\"?"
+      },
+      "q23" : {
+        "ans" : "weary",
+        "op" : [ "hostile", "weary", "sensitive", "incorrect", "I'm not sure" ],
+        "que" : "Meaning of the word \"Lethargic\"?"
+      },
+      "q24" : {
+        "ans" : "differentiate",
+        "op" : [ "declare innocent", "accuse", "differentiate", "preserve", "I'm not sure" ],
+        "que" : "Meaning of the word \"Discriminate\"?"
+      },
+      "q25" : {
+        "ans" : "inflexible",
+        "op" : [ "inflexible", "angry", "shapeless", "without", "I'm not sure" ],
+        "que" : "Meaning of the word \"Uncompromising\"?"
+      },
+      "q3" : {
+        "ans" : "avoiding waste",
+        "op" : [ "rich", "common", "avoiding waste", "religious", "cheap" ],
+        "que" : "Meaning of the word \"Economical\"?"
+      },
+      "q4" : {
+        "ans" : "certain",
+        "op" : [ "certain", "strange", "inferior", "blocked", "inspect" ],
+        "que" : "Meaning of the word \"Irrefutable\"?"
+      },
+      "q5" : {
+        "ans" : "demanding",
+        "op" : [ "knowledgable", "radical", "demanding", "skilled", "I'm not sure" ],
+        "que" : "Meaning of the word \"Laborious\"?"
+      },
+      "q6" : {
+        "ans" : "detailed",
+        "op" : [ "detailed", "infected", "internal", "struggling", "I'm not sure" ],
+        "que" : "Meaning of the word \"Elaborate\"?"
+      },
+      "q7" : {
+        "ans" : "oddity",
+        "op" : [ "oddity", "agreement", "retirement", "forgetfulness", "I'm not sure" ],
+        "que" : "Meaning of the word \"Anomaly\"?"
+      },
+      "q8" : {
+        "ans" : "limit",
+        "op" : [ "limit", "tightness", "anxiety", "defense", "I'm not sure" ],
+        "que" : "Meaning of the word \"Constraint\"?"
+      },
+      "q9" : {
+        "ans" : "similar",
+        "op" : [ "transforming", "physical", "similar", "irrational", "I'm not sure" ],
+        "que" : "Meaning of the word \"Analogous\"?"
+      }
+    }
+  },
+  "users" : {
+    "NeFZgLKOZmWKXnqLYAZ2AVL31vn2" : {
+      "diag" : true,
+      "email" : "manandalal1012@gmail.com",
+      "phno" : "794839291",
+      "title_content" : "I -->I \njust hope this works\n\n-->I\njust hope this works\n\n-->cause\nif it doesn't\n\n-->then\nI dont know what else to do\n\n-->   does\n\t\tthis look better\n\n-->   or\n\t\tdoes the upper ones look better?\n\n-->   this\n\t\tone is a big one so we can see how multiline long comments look as we may have mostly those type of notes from our users. I don't know what else to write here so I'm just gonna put some gibberish language ahead. jdkskdlhsjsksjsnxnndnxndndmxznzmHsnd djjdnx djdjd d d jsjsmalaks. slskkd d. kdmd\n thank you\n\nave\n\t\taa full and final bc I'm not changing this anymore\n\nPythagoras \n\t\ta^2 + b^2 = c^2 \n\nffggg\n\t\tttyyyy\n\nhey\n\t\tjfjxjxkckfkfo\n\njchch\n\t\tchch \n\nncjvjvj\n\t\tjvjgivi\n\nchch u\n\t\tcj jj\n\njsfjba\n\t\tknadknwidqox\n\n\n\t\t\n\n",
+      "un" : "Manan"
+    },
+    "ou0nOW7NXYe9o5p0e45enGpKzFC3" : {
+      "diag" : true,
+      "email" : "jenishmodi556@gmail.com",
+      "phno" : "7383837374",
+      "title_content" : "",
+      "un" : "Jenish"
+    }
+  }
+}

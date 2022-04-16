@@ -1,0 +1,4 @@
+Field,Type,Null,Key,Default,Extra
+id,int(11),NO,PRI,NULL,
+friends,json,YES,,NULL,
+requests,json,YES,,NULL,

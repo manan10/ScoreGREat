@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light"
+    tools:context=".PracticeFragment">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:orientation="horizontal">
+
+                <androidx.coordinatorlayout.widget.CoordinatorLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="150dp">
+
+                    <com.google.android.material.card.MaterialCardView
+                        style="@style/Widget.MaterialComponents.CardView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/mtrl_card_spacing"
+                        android:layout_marginTop="@dimen/mtrl_card_spacing"
+                        android:layout_marginRight="@dimen/mtrl_card_spacing"
+                        android:minHeight="150dp"
+                        app:cardBackgroundColor="@color/fui_bgFacebook"
+                        app:cardCornerRadius="10dp">
+
+
+                        <Button
+                            android:id="@+id/firstgo"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom"
+                            android:background="@android:drawable/screen_background_light_transparent"
+                            android:text="Go"
+                            android:textColor="@android:color/black" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="top"
+                            android:layout_marginTop="30dp"
+                            android:text="Double Answers"
+                            android:textAlignment="center"
+                            android:textColor="@android:color/black"
+                            android:textSize="30sp" />
+
+                    </com.google.android.material.card.MaterialCardView>
+                </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30dp"
+                android:orientation="horizontal">
+
+                <androidx.coordinatorlayout.widget.CoordinatorLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:minHeight="150dp">
+
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/materialCardView"
+                        style="@style/Widget.MaterialComponents.CardView"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="@dimen/mtrl_card_spacing"
+                        android:layout_marginTop="@dimen/mtrl_card_spacing"
+                        android:layout_marginRight="@dimen/mtrl_card_spacing"
+                        android:minHeight="150dp"
+                        app:cardBackgroundColor="@android:color/holo_orange_light"
+                        app:cardCornerRadius="10dp">
+
+
+                        <Button
+                            android:id="@+id/sgo"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="bottom"
+                            android:background="@android:drawable/screen_background_light_transparent"
+                            android:text="Go" />
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_gravity="top"
+                            android:layout_marginTop="30dp"
+                            android:text="Triple Answers"
+                            android:textAlignment="center"
+                            android:textColor="@android:color/black"
+                            android:textSize="30sp" />
+                    </com.google.android.material.card.MaterialCardView>
+                </androidx.coordinatorlayout.widget.CoordinatorLayout>
+
+            </LinearLayout>
+
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

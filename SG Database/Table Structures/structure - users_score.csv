@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+id,int(11),NO,PRI,NULL,
+email,varchar(30),YES,,NULL,
+pscore,double,YES,,0,
+ppercent,double,YES,,0,
+mscore,json,YES,,NULL,
+mqscore,json,YES,,NULL,
+mvscore,json,YES,,NULL,

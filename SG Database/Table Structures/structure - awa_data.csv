@@ -1,0 +1,8 @@
+Field,Type,Null,Key,Default,Extra
+awaid,int(11),NO,PRI,NULL,auto_increment
+queid,int(11),YES,,NULL,
+username,varchar(20),YES,,NULL,
+essay,varchar(4000),YES,,NULL,
+email,varchar(30),YES,,NULL,
+comments,json,YES,,NULL,
+rating,double,YES,,0,

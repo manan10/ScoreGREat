@@ -1,0 +1,11 @@
+create table users_main(FNAME varchar(15), LNAME varchar(15),EMAIL varchar(30),PWD varchar(256),id int primary key,profile_pic boolean,profile_ext varchar(5));
+create table notes(noteid int primary key auto_increment, username varchar(20), ntitle varchar(50), ncontent varchar(500));
+create table awa_data(awaid int primary key auto_increment, queid int, username varchar(20), essay varchar(4000), email varchar(30),comments json,rating double);
+create table awa(id int primary key auto_increment, ques varchar(800));
+create table games(id int primary key auto_increment, p1 int,p2 int,game int,turn int,finished boolean,questions json,round int,score_p1 int,score_p2 int,winner int);
+create table public_discussion_data (pdid int primary key auto_increment, que varchar(500), username varchar(20), answers json , email varchar(50));
+create table ques_math (id int primary key auto_increment, ques varchar(600), opt json, ans varchar(50) , difficulty varchar(10));
+create table ques_verbal (id int primary key auto_increment, ques varchar(600), opt json, ans json , difficulty varchar(10));
+create table user_friends (id int primary key, friends json, requests json);
+create table users_score (id int primary key, email varchar(30), pscore double, ppercent double, mscore json, mqscore json, mvscore json);
+create table words (id int primary key auto_increment, word varchar(20), opt json, ans varchar(30));

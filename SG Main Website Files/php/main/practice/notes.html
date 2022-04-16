@@ -1,0 +1,64 @@
+<html lang="en">
+    <head>
+        <link rel="icon" href="./../../../image/logo.png" type="image/icon type" style="width: max-content;">
+        <title>Score GREat | Practice</title>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link href="https://fonts.googleapis.com/css?family=Raleway|Kaushan+Script|Teko|Source+Serif+Pro|Slabo+27px&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="./../../../lib/bootstrap.min.css">
+        <script src="./../../../lib/7aadfb7b53.js" crossorigin="anonymous"></script>
+        <script src="./../../../lib/jquery.min.js"></script>
+        <script src="./../../../lib/popper.min.js"></script>
+        <script src="./../../../lib/bootstrap.min.js"></script>
+        <style>
+            .chat-popup > span {
+            	font-family: 'Kaushan Script', cursive;
+            	font-weight: 550;
+            	font-size: x-large;
+            }
+        
+            .number{
+                font-family: Source Serif Pro;
+            }
+            
+            .form-check {
+                width: 90% !important;
+            }
+            
+            #notes > form > button {
+                font-size: large;
+            }
+
+            .chat-popup {
+                background-image: linear-gradient(to right, #e6e600, #ffa31a);
+            }
+        </style>
+    </head>
+    
+    <body style="overflow: hidden">
+        <div class="chat-popup p-3" id="notes" style="font-family: 'slabo 27px', 'serif';">
+            <span style="color: black;">Score GREat</span>
+            <button class="float-right" type="button" style="background-color: rgba(0, 0, 0, 0); border: 0;">
+                <i class='far fa-window-close' style="font-size:28px"></i>
+            </button>
+            <form action="savenote.php" method="POST" class="mt-2">
+                <div class="form-group number">
+                    <input type="text" name="ntitle" class="form-control note" placeholder="Title" style="font-size: larger">
+                </div>
+                <div class="form-group number">
+                    <textarea class="form-control note" name="ntext" placeholder="Write here..." style="font-size: large"></textarea>
+                </div>
+                <button type="submit" class="btn btn-success">Submit</button>
+                <button type="reset" class="btn btn-danger" id="clear-note">Clear</button>
+            </form>
+        </div>
+    </body>
+    <script>
+        $(document).ready(function(){
+            $(".fa-window-close, .btn-success").click(function(){
+                $("#notes", window.parent.document).css("display", "none");
+                $(".btn-calc-note", window.parent.document).show();  
+            });
+        });
+    </script>
+</html>

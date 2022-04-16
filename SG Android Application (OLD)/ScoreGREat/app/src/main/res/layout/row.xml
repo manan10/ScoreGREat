@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="User Name"
+        android:textColor="#000"
+        android:textSize="15dp"
+        android:textStyle="bold" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <TextView
+            android:id="@+id/tv2"
+            android:layout_width="match_parent"
+            android:layout_height="60dp"
+            android:lines="3"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="0dp"
+            android:text="Question"
+            android:textColor="#a9a9a9"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    </ScrollView>
+
+    <TextView
+        android:id="@+id/tv3"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:lines="5"
+        android:layout_marginLeft="5dp"
+        android:layout_marginTop="5dp"
+        android:text="Answer"
+        android:textSize="15dp">
+
+    </TextView>
+</LinearLayout>
+
